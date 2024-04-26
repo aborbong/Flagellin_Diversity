@@ -1,0 +1,134 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. Version 3.0 adds a different format for
+ancestral state reconstruction, branch-site posterior storage, and
+site-level heterogeneity testing. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 3.0
+
+
+>code –> Universal
+/home/datamonkey/datamonkey-js-server/production/app/meme/output/649c3123ef46e7197e071fd9.tre
+/home/datamonkey/datamonkey-js-server/production/app/meme/output/649c3123ef46e7197e071fd9.tre
+
+>Loaded a multiple sequence alignment with **403** sequences, **140** codons, and **1** partitions from `/home/datamonkey/datamonkey-js-server/production/app/meme/output/649c3123ef46e7197e071fd9`
+
+>branches –> All
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 
+>pvalue –> 0.1
+
+>[Advanced setting, will result in MUCH SLOWER run time] Perform parametric bootstrap resampling to derive site-level null LRT distributions up to this many replicates per site. Recommended use for small to medium (<30 sequences) datasets (permissible range = [0,1000], default value = 50, integer): 
+>resample –> 0
+
+
+### Branches to include in the MEME analysis
+Selected 803 branches to include in the MEME analysis: `OHU94028_1, AXD71584_1, EKQ51095_1, KZL14888_1, Node39, KPG62988_1, Node38, WP_008551882_1, Node37, EWH09463_1, Node36, OIQ18540_1, Node35, SOB91381_1, Node34, AJI21535_1, Node33, KJS85393_1, Node32, SUW00762_1, Node31, Node29, WP_089072520_1, Node28, Node26, OQZ05054_1, Node25, EJI85116_1, Node24, KPM83400_1, Node23, GAC37569_1, Node22, GAC15186_1, Node21, SET55798_1, Node20, SET07793_1, Node19, SFK10547_1, Node18, DAB26546_1, OGO83512_1, Node101, OJU13339_1, Node100, KKB09915_1, Node99, OJU13340_1, Node98, EUC00287_1, Node97, PAW68983_1, Node96, SOC83077_1, Node95, AVX04062_1, Node94, PSM18865_1, Node93, WP_062107486_1, Node92, PYN97132_1, WP_012606457_1, KRE00236_1, WP_068024403_1, Node138, KQT19785_1, Node137, PSJ41961_1, Node136, WP_048227963_1, Node135, WP_048451007_1, Node134, SON56227_1, EFH10901_1, WP_078663633_1, WP_110813485_1, Node151, Node149, WP_116468843_1, Node148, Node146, APH73633_1, Node145, Node133, WP_080456401_1, Node132, EEX09374_1, Node131, Node129, Node127, KUF10381_1, Node126, KUJ77904_1, Node125, OGN50244_1, Node124, CUT13725_1, Node123, SPF78803_1, Node122, ESQ92388_1, Node121, WP_093732877_1, Node120, SFF58004_1, Node119, OYX30784_1, Node118, EZP48671_1, Node117, CUH81577_1, Node116, KPQ07022_1, Node115, AMN52750_1, Node114, PIE08362_1, Node113, Node91, WP_012333699_1, Node90, SDF49408_1, Node89, GAD57481_1, Node88, KEQ09424_1, Node87, WP_035570051_1, Node86, PLX44616_1, Node85, KEO54238_1, Node84, EAP91499_1, Node83, OUX02289_1, Node82, BAM02311_1, Node81, WP_099510531_1, Node80, SFF58521_1, Node79, DAA87246_1, RAK61347_1, Node184, Node78, KPP83520_1, Node77, KQU71625_1, Node76, OKL45308_1, Node75, ASP19302_1, Node74, OFW99586_1, Node73, SOC07831_1, Node72, ODT06014_1, Node71, KQS77416_1, Node70, ALV26347_1, Node69, EKF41574_1, Node68, WP_007068687_1, Node67, WP_056638471_1, Node66, ODV02649_1, Node65, SPL65060_1, Node64, KEQ04745_1, Node63, OCJ12932_1, Node62, SFG37787_1, Node61, AAK24938_1, Node60, OYU51363_1, AMS30210_1, Node205, Node59, Node17, GBF57702_1, Node16, WP_011643899_1, Node15, PCH74974_1, Node14, APO79760_1, Node13, WP_026282771_1, Node12, KPL84108_1, PKO15730_1, Node213, Node11, AFK52916_1, PKR48742_1, KZB67702_1, WP_085620935_1, Node220, Node218, Node216, Node10, OON63940_1, Node9, ADH85945_1, WP_006593996_1, Node224, Node8, WP_010639994_1, ABA48561_1, KDR32911_1, WP_035942301_1, Node232, Node230, Node228, PXW78078_1, Node227, Node7, EZP81525_1, PVE61782_1, AXJ95325_1, Node240, Node238, KXU31828_1, OJY50608_1, Node243, Node237, KTE41701_1, PKP97057_1, Node247, OWR00293_1, WP_095386630_1, Node250, Node246, Node236, Node6, SEH28796_1, SHK70636_1, Node264, ERL03959_1, Node263, EMZ23388_1, Node262, OGJ86828_1, OGJ99634_1, Node269, Node261, EPG66505_1, OHD66247_1, Node276, OHD63782_1, Node275, OHD66635_1, Node274, OHD62162_1, Node273, EFW36388_1, EFW38744_1, Node287, AEF84042_1, WP_013967495_1, Node290, Node286, PIE04719_1, RDG33920_1, Node293, Node285, WP_083051574_1, Node284, AHC15133_1, Node283, PKL24675_1, ORC34218_1, Node300, ORC31882_1, Node299, PKL07545_1, PKL08072_1, Node304, Node298, Node282, Node272, Node260, EMT50033_1, WP_074033689_1, WP_039230967_1, Node309, Node307, Node259, EGF27422_1, EMI18210_1, Node316, WP_095416232_1, RCS51109_1, Node319, Node315, PHQ80919_1, Node314, PIW16240_1, Node313, GBC95276_1, OGG03689_1, Node324, Node312, Node258, SEH14759_1, SFU05013_1, RBY75374_1, SEL46023_1, Node333, Node331, KGH48066_1, PZA21656_1, Node336, Node330, SFC32404_1, SFT68605_1, Node341, AEI10972_1, KQQ39766_1, SDS43141_1, Node349, Node347, SNT20998_1, KHD72560_1, Node353, WP_033367937_1, Node352, Node346, SHN41994_1, KQO64923_1, KQR51147_1, Node359, Node357, Node345, PWW21285_1, PFG32223_1, Node362, Node344, Node340, AXV05889_1, Node339, Node329, Node327, Node257, CBK42052_1, OQW31935_1, OQW65421_1, Node369, Node367, PIQ99844_1, SNB47029_1, Node374, SMF69936_1, Node373, OFZ55211_1, WP_061834788_1, WP_061834790_1, WP_061833516_1, Node385, WP_015089592_1, Node384, Node382, OFZ49340_1, OQW49893_1, ASD65009_1, Node391, Node389, Node381, Node379, OFZ81855_1, OFZ84822_1, Node394, Node378, Node372, Node366, Node256, EEJ52905_1, Node255, SIO27575_1, SIN73647_1, Node402, AQT66958_1, Node401, WP_020879737_1, Node400, ABJ81339_1, PWU08124_1, Node408, SPE29028_1, AXC14836_1, Node412, AFL87630_1, Node411, Node407, Node399, OAM88651_1, PJA43697_1, WP_096055726_1, Node421, Node419, ODT88473_1, PZN98316_1, ANF55915_1, PRB34741_1, Node430, Node428, Node426, SEM46228_1, Node425, WP_108986202_1, Node424, Node418, EOS64734_1, Node417, OON62929_1, WP_043810625_1, Node438, KUY54581_1, Node437, AXE33704_1, WP_103317800_1, Node443, ALK96064_1, SEN13450_1, SDI60355_1, Node448, Node446, Node442, Node436, Node416, Node398, Node254, ARK25516_1, KGE20414_1, Node460, KMQ49910_1, DAB16588_1, Node464, OON91802_1, Node463, Node459, PFC04532_1, PEF10938_1, EDZ58145_1, WP_001222331_1, Node472, Node470, Node468, Node458, OXS66415_1, SOB91075_1, Node483, PTA84247_1, WP_080623791_1, Node487, WP_050351719_1, Node486, Node482, PGR04074_1, AKP76066_1, Node494, SFD41969_1, PJJ23062_1, Node497, Node493, WP_062514727_1, WP_079478177_1, SHM96665_1, Node502, Node500, Node492, WP_047153542_1, Node491, Node481, PLS17873_1, Node480, OXB92966_1, ACS25692_1, Node507, Node479, WP_026588933_1, Node478, KJS48310_1, OZQ63720_1, PZE19284_1, Node513, Node511, Node477, KUO58664_1, Node476, RHP21444_1, OLA67494_1, Node518, WP_077611709_1, WP_077612123_1, Node521, Node517, Node475, Node457, WP_094752839_1, OUX78757_1, Node525, ODS24477_1, KOO04810_1, Node528, Node524, Node456, OUT94870_1, Node455, PUE37919_1, SDL68561_1, Node534, EEO87047_1, WP_077750682_1, Node538, SUP45119_1, EDK26613_1, Node541, Node537, Node533, SHJ16927_1, Node532, Node454, PUE41734_1, PUE35484_1, WP_090130095_1, ALK90936_1, Node553, PUE16510_1, Node552, Node550, OUV28164_1, Node549, PUE41723_1, Node548, PIT74785_1, WP_090046970_1, Node559, Node547, Node545, Node453, CAA59172_1, SPX60066_1, Node567, STY26135_1, Node566, PSW35317_1, WP_076410907_1, WP_108947165_1, Node578, WP_076918285_1, Node577, Node575, ASA55037_1, Node574, AGU57173_1, CRZ75738_1, Node583, Node573, KJE43388_1, Node572, WP_046554761_1, WP_008898545_1, Node589, AMJ97557_1, Node588, PYE32768_1, Node587, Node571, Node565, SER07934_1, Node564, ABO90683_1, WP_109339242_1, Node595, Node563, WP_043760564_1, WP_043131923_1, Node599, WP_081568834_1, Node598, Node562, Node452, EGV30026_1, WP_029592335_1, SFB96321_1, WP_113269453_1, Node608, SDT96348_1, Node607, Node605, Node603, Node451, Node253, Node5, AKC68783_1, Node4, OAS88434_1, WP_116520833_1, CUI90507_1, CCH09348_1, Node620, CUI82500_1, CUJ85379_1, Node624, PWY47549_1, Node623, Node619, Node617, Node615, KOQ58417_1, Node614, WP_116791995_1, RBL85471_1, WP_054447314_1, Node632, Node630, WP_063492628_1, SAI71311_1, Node635, Node629, Node613, Node3, STH06714_1, WP_096932346_1, Node649, ORM56269_1, Node648, AAR10729_1, Node647, BAD14977_1, OEI93346_1, Node655, WP_115348483_1, Node654, Node646, PVD78291_1, Node645, PIJ57866_1, AOT43668_1, Node660, Node644, CCF11937_1, KTS26823_1, Node663, Node643, WP_108419813_1, WP_108256293_1, Node670, RDH84702_1, PCI19819_1, Node674, KGM08192_1, Node673, Node669, OAI08646_1, Node668, WP_100639385_1, Node667, PCI50789_1, PHR99314_1, Node680, Node666, Node642, SFR42095_1, Node641, KEA64316_1, AAA62844_1, WP_074758760_1, Node690, WP_099454942_1, WP_095110702_1, ARQ75400_1, PAA05981_1, Node697, Node695, Node693, Node689, KOR09399_1, Node688, Node686, PNF76802_1, SEP87072_1, Node703, AKN27456_1, Node702, OWL91134_1, Node701, Node685, ABM19674_1, PCM45266_1, Node708, Node684, Node640, OAD82225_1, PJC16075_1, KRB93311_1, Node716, CAL62017_1, SET08004_1, Node719, Node715, Node713, WP_074707246_1, PAS94113_1, Node722, Node712, WP_083559272_1, Node711, Node639, WP_109127410_1, EIL92230_1, Node728, WP_068614852_1, PZN00639_1, Node731, Node727, AAW75835_1, WP_107379561_1, Node736, PKH97030_1, KRG75180_1, PKH72064_1, Node741, Node739, Node735, WP_110263600_1, Node734, Node726, Node638, Node2, PYG03853_1, WP_018949432_1, Node747, WP_018952847_1, Node746, ANX04028_1, Node745, Node1, WP_065340783_1, OHC71208_1, Node753, EER61502_1, KRH98875_1, ODS77447_1, Node760, ACM34519_1, PVY90493_1, Node763, Node759, Node757, AVS96945_1, Node756, Node752, PLK48784_1, KQW40429_1, Node769, BAO83469_1, OSZ74231_1, Node773, KPF48886_1, ODT38476_1, Node777, EGJ11382_1, WP_073468939_1, WP_056669752_1, Node782, Node780, Node776, Node772, Node768, WP_069047637_1, AOF85605_1, Node788, WP_069047632_1, Node787, EXU80374_1, PEH88058_1, Node793, ANY60803_1, OOH88764_1, Node798, RGE43226_1, Node797, SDP93350_1, Node796, Node792, Node786, OJW74867_1, Node785, Node767`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths –> Yes
+
+### Deleted 33 zero-length internal branches: `Node115, Node117, Node118, Node119, Node123, Node129, Node13, Node131, Node135, Node16, Node17, Node20, Node26, Node480, Node59, Node61, Node63, Node65, Node69, Node70, Node71, Node74, Node75, Node76, Node79, Node80, Node81, Node82, Node85, Node86, Node88, Node89, Node90`
+* Log(L) = -154727.62, AIC-c = 311085.07 (811 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 446.825
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -148972.63, AIC-c = 299537.43 (785 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 532.619
+* non-synonymous/synonymous rate ratio for *test* =   0.2841
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+
+>full-model –> Yes
+* Log(L) = -147776.60
+* non-synonymous/synonymous rate ratio for *test* =   0.2099
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |Most common codon substitutions at this site|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|:------------------------------------------:|
+|     20     |     1      |    0.676   |    1.581   |    0.147   |    3.254   |      Yes, p =  0.0935      |     7      |[15]tcT>tcA,tcT>tcC|[13]Tcc>Gcc,tcC>tcG|[...|
+|     18     |     1      |    0.921   |    5.791   |    0.052   |    5.424   |      Yes, p =  0.0303      |     4      |[25]gcC>gcG|[19]gcG>gcC|[13]gcC>gcT|[12]G...|
+|     28     |     1      |    0.903   |    3.605   |    0.103   |    4.092   |      Yes, p =  0.0603      |     2      |[10]cgC>cgT,cgT>cgC|[9]aaA>aaG,cgC>cgG|[7...|
+|     24     |     1      |    0.816   |    1.431   |    0.255   |    3.272   |      Yes, p =  0.0925      |     48     |[20]cgG>cgC|[16]acC>acT|[9]acC>acG|[8]cgA...|
+|     3      |     1      |    0.865   |    4.152   |    0.055   |    8.265   |      Yes, p =  0.0071      |     12     |[24]acC>acG|[20]tcC>tcG|[17]tcG>tcC|[16]t...|
+|     25     |     1      |    0.881   |   10.188   |    0.048   |    7.261   |      Yes, p =  0.0118      |     3      |[13]tcG>tcC|[12]tcC>tcG|[10]Tcc>Gcc|[8]Tc...|
+|     22     |     1      |    0.839   |   18.181   |    0.042   |    9.684   |      Yes, p =  0.0035      |     4      |[13]cgC>cgT|[12]cgT>cgC|[11]aaG>aaA|[8]cg...|
+|     9      |     1      |    1.193   |  550.472   |    0.100   |   26.535   |      Yes, p =  0.0000      |     16     |[20]agC>agT|[10]cgC>cgG|[9]cgC>cgT|[7]agT...|
+|     21     |     1      |    0.704   |  148.508   |    0.057   |   25.584   |      Yes, p =  0.0000      |     12     |[18]gaA>gaG|[11]gaG>gaA|[10]Aag>Cag|[7]aa...|
+|     6      |     1      |    1.025   |   63.354   |    0.039   |   23.649   |      Yes, p =  0.0000      |     12     |[25]cgC>cgG,cgC>cgT|[16]cgA>cgT|[14]Cga>A...|
+|     35     |     1      |    0.579   |   58.746   |    0.066   |   38.820   |      Yes, p =  0.0000      |     9      |[12]cgC>cgT|[10]Cga>Aga,gaC>gaT|[9]cgT>cg...|
+|     32     |     1      |    1.058   |  119.434   |    0.098   |   30.135   |      Yes, p =  0.0000      |     20     |[25]caG>caA|[19]caA>caG|[13]gcC>gcG|[8]gt...|
+|     34     |     1      |    0.927   |   18.118   |    0.216   |   14.647   |      Yes, p =  0.0003      |     2      |[8]gtG>gtT|[7]gcG>gcC|[6]GtG>AtC,GTg>CAg,...|
+|     52     |     1      |    0.791   |    3.384   |    0.214   |   16.234   |      Yes, p =  0.0001      |     7      |[10]gaA>gaG|[6]aaC>aaT|[5]aAc>aCc,aaT>aaC...|
+|     53     |     1      |    1.028   |    4.074   |    0.082   |    7.702   |      Yes, p =  0.0095      |     6      |[38]gaA>gaG|[14]gaG>gaA|[11]Gag>Cag|[7]aC...|
+|     45     |     1      |    0.830   |   13.377   |    0.014   |    3.418   |      Yes, p =  0.0857      |     3      |[34]caG>caA|[19]caA>caG|[11]gCc>gAc|[8]gc...|
+|     55     |     1      |    0.681   |    5.787   |    0.143   |   25.306   |      Yes, p =  0.0000      |     7      |[8]acC>acT|[7]caC>caT|[6]acC>acG,aCc>aTc|...|
+|     40     |     1      |    0.512   |   36.726   |    0.010   |    3.910   |      Yes, p =  0.0663      |     2      |[32]ggC>ggT|[18]gGc>gCc|[16]gGC>gCG|[12]g...|
+|     54     |     1      |    0.906   |   10.562   |    0.080   |    9.550   |      Yes, p =  0.0037      |     4      |[17]atC>atT,Atc>Gtc|[10]AtC>GtG,Gtc>Atc|[...|
+|     56     |     1      |    1.151   |   12.117   |    0.091   |   12.205   |      Yes, p =  0.0010      |     9      |[24]gaC>gaT|[17]aaC>aaT|[11]Aac>Gac,aaT>a...|
+|     49     |     1      |    0.615   |   88.283   |    0.029   |    5.328   |      Yes, p =  0.0318      |     5      |[31]ggC>ggT|[22]ggT>ggC|[12]ggT>ggA|[7]Gg...|
+|     57     |     1      |    1.434   |   17.496   |    0.026   |    7.536   |      Yes, p =  0.0103      |     4      |[17]atC>atT|[10]atC>atG,atG>atC,atT>atC|[...|
+|     63     |     1      |    0.712   |   74.301   |    0.046   |   24.710   |      Yes, p =  0.0000      |     7      |[15]gtT>gtA|[13]gtC>gtT|[12]gtG>gtC,gtT>g...|
+|     58     |     1      |    0.760   |  955.602   |    0.008   |    3.388   |      Yes, p =  0.0871      |     2      |[42]ctG>ctC|[26]Ctg>Ttg|[16]ctG>ctT|[7]Ct...|
+|     68     |     1      |    1.023   |   27.100   |    0.141   |   25.017   |      Yes, p =  0.0000      |     3      |[8]aaC>aaT,acC>acG|[7]caG>caA|[6]aCc>aGc,...|
+|     67     |     1      |    1.022   |    5.032   |    0.175   |    5.707   |      Yes, p =  0.0262      |     0      |[10]gaA>gaG,GGc>AAc|[7]gaA>gaC|[6]aaC>aaG...|
+|     72     |     1      |    0.694   |    1.368   |    0.138   |    4.935   |      Yes, p =  0.0390      |     35     |[27]aaC>aaT|[18]aaT>aaC|[6]AAc>GCc,AAc>GG...|
+|     85     |     1      |    0.841   |    3.297   |    0.471   |    9.827   |      Yes, p =  0.0032      |     0      |[10]gGt>gAt|[8]gGt>gCt|[7]Gcc>Acc,gCc>gGc...|
+|     66     |     1      |    0.874   |   61.057   |    0.038   |    9.032   |      Yes, p =  0.0048      |     4      |[21]gcC>gcG|[15]gcC>gcA|[13]gcT>gcA|[12]g...|
+|     78     |     1      |    1.050   |   12.245   |    0.238   |   10.661   |      Yes, p =  0.0021      |     0      |[10]Gcc>Acc,gCc>gAc,gCc>gGc,GcC>TcG|[7]gc...|
+|     79     |     1      |    1.039   |    5.231   |    0.247   |    5.893   |      Yes, p =  0.0238      |     0      |[11]gcC>gcG|[10]Gcc>Acc|[9]gCc>gGc|[8]Gcc...|
+|     74     |     1      |    0.950   |    4.988   |    0.327   |    5.494   |      Yes, p =  0.0292      |     0      |[9]atC>atT|[8]Atc>Gtc|[7]aTc>aAc|[6]ATc>T...|
+|     88     |     1      |    0.985   |    6.683   |    0.223   |    4.916   |      Yes, p =  0.0394      |     0      |[12]Acc>Gcc|[10]ACc>GGc|[9]acC>acG|[8]ACC...|
+|     81     |     1      |    1.019   |    2.442   |    0.611   |    5.455   |      Yes, p =  0.0298      |     0      |[10]gcC>gcG|[8]acC>acG,Gcc>Acc,gCc>gGc|[6...|
+|     75     |     1      |    0.836   |    4.009   |    0.280   |    5.383   |      Yes, p =  0.0310      |     0      |[10]Gcc>Acc|[9]Gac>Aac|[8]ggT>ggA|[7]gaC>...|
+|     77     |     1      |    0.847   |    5.743   |    0.421   |   21.819   |      Yes, p =  0.0000      |     1      |[7]gTc>gGc|[4]ctC>ctG,Gcc>Acc,gcC>gcT,ggT...|
+|     80     |     1      |    1.152   |    3.002   |    0.647   |    4.945   |      Yes, p =  0.0388      |     0      |[13]Gcc>Acc,gCc>gGc|[10]GCc>ATc,gcC>gcG|[...|
+|     60     |     1      |    1.427   |  295.487   |    0.042   |    6.601   |      Yes, p =  0.0166      |     8      |[68]gaA>gaG|[10]gaA>gaC|[7]gAA>gCC|[6]GAA...|
+|     87     |     1      |    0.512   |   16.011   |    0.351   |   15.610   |      Yes, p =  0.0002      |     0      |[13]Gcc>Acc|[11]gCc>gTc|[9]gCc>gGc|[8]Acc...|
+|     86     |     1      |    0.553   |   42.833   |    0.271   |   12.597   |      Yes, p =  0.0008      |     0      |[8]gCA>gGT|[6]Gcg>Acg|[5]gCc>gAc,gcC>gcG,...|
+|     83     |     1      |    1.136   |    2.234   |    0.453   |    4.426   |      Yes, p =  0.0507      |     23     |[24]ggC>ggT|[18]gGc>gCc|[12]ggC>ggG|[11]G...|
+|     96     |     1      |    0.933   |    4.578   |    0.281   |   13.118   |      Yes, p =  0.0006      |     1      |[14]acG>acC|[7]Acg>Tcg|[5]aaG>aaA,aAg>aCg...|
+|     98     |     1      |    0.833   |   11.536   |    0.042   |    9.904   |      Yes, p =  0.0031      |     2      |[15]aaC>aaT|[11]aAc>aGc,Aac>Gac|[6]gaC>ga...|
+|     99     |     1      |    0.848   |    4.126   |    0.218   |   10.977   |      Yes, p =  0.0018      |     1      |[9]Agc>Ggc,gaC>gaT|[7]AcC>TcG,AGC>TCG|[6]...|
+|    107     |     1      |    1.243   |   17.156   |    0.036   |    4.287   |      Yes, p =  0.0545      |     1      |[14]taT>taC|[10]gtG>gtC|[7]GtG>AtC|[6]gCc...|
+|    100     |     1      |    1.042   |    5.033   |    0.216   |    9.802   |      Yes, p =  0.0033      |     6      |[22]gcG>gcC|[8]cAg>cTg,gcG>gcA|[7]caG>caA...|
+|    105     |     1      |    0.412   |   53.665   |    0.004   |   11.003   |      Yes, p =  0.0018      |     3      |[72]ggT>ggC|[20]ggT>ggA|[15]ggT>ggG|[9]gg...|
+|    108     |     1      |    0.722   |    1.721   |    0.131   |    3.819   |      Yes, p =  0.0695      |     10     |[29]caG>caA|[14]caA>caG|[8]Cag>Gag|[6]Cag...|
+|    116     |     1      |    0.840   |    5.230   |    0.211   |   14.486   |      Yes, p =  0.0003      |     1      |[11]gaC>gaT|[10]aaT>aaC|[7]gaC>gaG|[6]aGc...|
+|    112     |     1      |    1.723   |    7.700   |    0.065   |    6.048   |      Yes, p =  0.0220      |     8      |[39]gaG>gaA|[29]gaA>gaG|[18]gaG>gaC|[12]g...|
+|    118     |     1      |    0.617   |   23.997   |    0.024   |    8.727   |      Yes, p =  0.0056      |     4      |[18]Ctg>Ttg|[12]ctG>ctC|[11]Atc>Gtc|[9]Ct...|
+|    126     |     1      |    0.848   |    4.316   |    0.102   |   15.981   |      Yes, p =  0.0001      |     1      |[9]acG>acC|[8]acA>acT,tcG>tcC|[6]AaA>GaC,...|
+|    125     |     1      |    0.726   |    8.660   |    0.049   |   12.553   |      Yes, p =  0.0008      |     7      |[29]ctG>ctC|[20]Ctg>Ttg|[17]Ctg>Atg|[11]c...|
+|    122     |     1      |    0.844   |    8.394   |    0.197   |   11.877   |      Yes, p =  0.0011      |     0      |[8]tcG>tcC,tcT>tcA|[7]aCC>aTG,gtC>gtG|[5]...|
+|    119     |     1      |    1.065   |    6.573   |    0.267   |   25.342   |      Yes, p =  0.0000      |     13     |[12]caG>caA|[8]CaG>AaC|[6]agT>agC,tcG>tcC...|
+|    121     |     1      |    0.605   |    8.951   |    0.124   |   14.822   |      Yes, p =  0.0003      |     7      |[9]Ctg>Atg|[8]acG>acC,ctG>ctC,gcG>gcC|[7]...|
+|    113     |     1      |    0.814   |   57.452   |    0.095   |   25.246   |      Yes, p =  0.0000      |     8      |[13]caC>caT|[8]tcG>tcC|[7]caT>caC,tcG>tcA...|
+|    114     |     1      |    0.812   |   64.265   |    0.051   |    6.416   |      Yes, p =  0.0182      |     3      |[21]acC>acG|[12]Acc>Gcc|[10]acC>acT,gcC>g...|
+|    135     |     1      |    0.611   |    2.728   |    0.108   |    6.042   |      Yes, p =  0.0221      |     15     |[25]gcC>gcG|[18]gcC>gcT|[14]gcC>gcA|[11]G...|
+|    129     |     1      |    0.812   |  167.731   |    0.066   |   23.930   |      Yes, p =  0.0000      |     5      |[19]cgC>cgT|[16]gaA>gaG|[11]Atc>Gtc|[9]at...|
+|    140     |     1      |    0.830   |   17.072   |    0.015   |   15.192   |      Yes, p =  0.0002      |     6      |[28]ctG>ctC|[15]Ctg>Ttg|[12]ctG>ctT|[9]ct...|
+|    137     |     1      |    1.740   |  203.853   |    0.023   |    6.286   |      Yes, p =  0.0195      |     5      |[21]ttC>ttT|[14]Atg>Ctg|[13]tTc>tAc|[9]ta...|

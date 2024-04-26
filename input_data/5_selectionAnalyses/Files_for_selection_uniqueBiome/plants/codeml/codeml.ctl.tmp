@@ -1,0 +1,53 @@
+      seqfile = /Volumes/abt3_projects2/Flagellin_Diversity/code/notebooks/shortbred/edgeR/subsampled_opt1/Files_for_selection_uniqueBiome/plants/paml.plants.phy
+     treefile = /Volumes/abt3_projects2/Flagellin_Diversity/code/notebooks/shortbred/edgeR/subsampled_opt1/Files_for_selection_uniqueBiome/plants/plants_woBL.nwk
+      outfile = sites_animals_allmodels_CodonFreq7.txt
+
+        noisy = 4
+      verbose = 1
+      runmode = 0
+
+
+      seqtype = 1
+    CodonFreq = 7
+      estFreq = 1
+
+        ndata = 1
+        clock = 0
+       aaDist = 0
+
+
+
+        model = 0
+
+
+
+
+
+
+      NSsites = 0 1 2 7 8 
+
+
+
+
+        icode = 11
+        Mgene = 0
+
+
+
+    fix_kappa = 0
+        kappa = 2
+    fix_omega = 0
+        omega = 0.5
+
+    fix_alpha = 1
+        alpha = 0
+       Malpha = 0
+        ncatG = 5
+
+        getSE = 1
+ RateAncestor = 0
+
+   Small_Diff = 5e-7
+    cleandata = 0
+  fix_blength = 0
+       method = 0

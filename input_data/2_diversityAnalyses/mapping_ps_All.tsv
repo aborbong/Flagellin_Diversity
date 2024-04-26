@@ -1,0 +1,853 @@
+Sample	Dataset	biome_0	biome_1	biome_2	biome_3	biome_4	family
+ERS233527	MGYS00000320	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS233526	MGYS00000320	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS233524	MGYS00000320	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS233525	MGYS00000320	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612894	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612888	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612896	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612885	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612891	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612886	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612900	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612887	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612889	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612897	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612895	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612890	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612898	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612899	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612893	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS612892	MGYS00000447	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+SRS429584	MGYS00000562	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS1030537	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030532	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030529	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030534	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030533	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030531	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030539	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030536	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030535	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1030538	MGYS00000599	root	Environmental	Aquatic	Freshwater	Ice	NA
+ERS1065342	MGYS00000631	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS1065341	MGYS00000631	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS1065340	MGYS00000631	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS1115236	MGYS00000802	root	Environmental	Terrestrial	Soil	Desert	NA
+ERS1115237	MGYS00000802	root	Environmental	Terrestrial	Soil	Desert	NA
+ERS1115238	MGYS00000802	root	Environmental	Terrestrial	Soil	Desert	NA
+ERS1115239	MGYS00000802	root	Environmental	Terrestrial	Soil	Desert	NA
+SRS697337	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697340	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697348	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697347	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697336	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697338	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697342	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697341	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697346	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697339	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697332	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+SRS697243	MGYS00000989	root	Environmental	Terrestrial	Soil	Sand	NA
+ERS606326	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606420	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606451	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606314	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606431	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606338	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606296	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS606394	MGYS00001193	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS970393	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970319	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970241	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970384	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970208	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970242	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970401	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970310	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970213	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970171	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970370	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970416	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970200	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970227	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970396	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970222	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS970335	MGYS00001225	root	Host-associated	Mammalia	Digestive system	Large intestine	Suidae
+ERS1353918	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353922	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353924	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353919	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353925	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353920	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353923	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1353921	MGYS00001254	root	Host-associated	Mammalia	Digestive system	Large intestine	Cricetidae
+ERS1418471	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418480	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418481	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418490	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418479	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418484	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418477	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418486	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418475	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418473	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418476	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418472	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418488	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418482	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418469	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1418487	MGYS00001291	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS1459889	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1459887	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1459888	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1459886	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1455390	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1455389	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1455391	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1459885	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1459890	MGYS00001321	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Hypersaline	NA
+ERS1474378	MGYS00001380	root	Host-associated	Mammalia	Digestive system	Fecal	Muridae
+ERS1474385	MGYS00001380	root	Host-associated	Mammalia	Digestive system	Fecal	Muridae
+ERS1286102	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286734	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286108	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286107	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286099	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286100	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286209	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286207	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286196	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286194	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286210	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286098	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286204	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286097	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286105	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286208	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286195	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286103	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286101	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286110	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286206	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1286104	MGYS00001512	root	Environmental	Aquatic	Marine	Sediment	NA
+ERS1579950	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579932	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579942	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579952	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579945	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579947	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579930	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579948	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579939	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579941	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579925	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579944	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579934	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579938	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579943	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579955	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579927	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579946	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579937	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579933	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579929	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579935	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1579953	MGYS00001583	root	Host-associated	Actinopterygii	Digestive system	Foregut	Salmonidae
+ERS1222675	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1222674	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1222676	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1222671	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1222673	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1222672	MGYS00001690	root	Environmental	Aquatic	Freshwater	Lentic	NA
+ERS1719614	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719615	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719607	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719605	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719619	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719617	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719616	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719613	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719612	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719610	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719609	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS1719608	MGYS00001761	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS723591	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723612	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723614	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723595	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723671	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723593	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723663	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723676	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723606	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723624	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723600	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723666	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723638	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723673	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723644	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723639	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723622	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723630	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723597	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723607	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723636	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723627	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723641	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723616	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723632	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723647	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723661	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723609	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723675	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS723631	MGYS00001796	root	Host-associated	Mammalia	Digestive system	Large intestine	Felidae
+ERS1847598	MGYS00001912	root	Host-associated	Mammalia	Digestive system	Fecal	Muridae
+ERS1847603	MGYS00001912	root	Host-associated	Mammalia	Digestive system	Fecal	Muridae
+ERS1847609	MGYS00001912	root	Host-associated	Mammalia	Digestive system	Fecal	Muridae
+ERS812544	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812550	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812543	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812545	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812547	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812546	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812549	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS812548	MGYS00001951	root	Host-associated	Mammalia	Digestive system	Stomach	Bovidae
+ERS846465	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846464	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846466	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846462	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846467	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846468	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846463	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846461	MGYS00002018	root	Environmental	Terrestrial	Soil	Grasslands	NA
+ERS846458	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846459	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846460	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846450	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846457	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846456	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846451	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846455	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846453	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+ERS846452	MGYS00002018	root	Environmental	Terrestrial	Soil	Permafrost	NA
+SRS1367461	MGYS00002134	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+SRS1367458	MGYS00002134	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+SRS1367460	MGYS00002134	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+SRS1367454	MGYS00002134	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+SRS1367424	MGYS00002134	root	Environmental	Aquatic	Marine	Intertidal zone	NA
+ERS2176284	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176281	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176285	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176291	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176288	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176290	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176280	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176286	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176283	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176289	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176287	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2176282	MGYS00002286	root	Environmental	Aquatic	Marine	Coastal	NA
+ERS2464055	MGYS00002388	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS2464028	MGYS00002388	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS2464054	MGYS00002388	root	Host-associated	Mammalia	Digestive system	Large intestine	Muridae
+ERS2867121	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867115	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867118	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867128	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867130	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867116	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867122	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867119	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867127	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867120	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867137	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2867124	MGYS00003472	root	Host-associated	Aves	Digestive system	Fecal	Anatidae
+ERS2085102	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085248	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085180	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085273	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085352	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085138	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085366	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085337	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085182	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085187	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085269	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085201	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085192	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085340	MGYS00003488	root	Host-associated	Aves	Digestive system	Fecal	Phasianidae
+ERS2085281	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085258	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085318	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085225	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085389	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085321	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085221	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085150	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085097	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085267	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085081	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085419	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2085357	MGYS00003488	root	Host-associated	Mammalia	Digestive system	Fecal	Suidae
+ERS2876946	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876948	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876944	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876947	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876943	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876942	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876945	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876949	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+ERS2876950	MGYS00003605	root	Environmental	Aquatic	Freshwater	Sediment	NA
+SRS963313	MGYS00003658	root	Environmental	Aquatic	Freshwater	Groundwater	NA
+SRS963627	MGYS00003658	root	Environmental	Aquatic	Freshwater	Groundwater	NA
+SRS963594	MGYS00003658	root	Environmental	Aquatic	Freshwater	Groundwater	NA
+ERS1546719	MGYS00004547	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Saline	NA
+ERS1546720	MGYS00004547	root	Environmental	Aquatic	Non-marine Saline and Alkaline	Saline	NA
+SRR11092497	NA	root	Environmental	Soil	Soil	Soil	NA
+SRR11092503	NA	root	Environmental	Soil	Soil	Soil	NA
+SRR11092507	NA	root	Environmental	Soil	Soil	Soil	NA
+SRR11092510	NA	root	Environmental	Soil	Soil	Soil	NA
+SRR11092500	NA	root	Environmental	Soil	Soil	Soil	NA
+SRR11092504	NA	root	Environmental	Soil	Soil	Soil	NA
+F14_Common_Bream	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+F44_Fallow_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+F90_Domestic_Dog	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+F141_Wood_Sandpiper	Vertebrata	root	Host-associated	Aves	Charadriiformes	feces	Scolopacidae
+X1_Eurasian_Beaver	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Castoridae
+X2_Raccoon_Dog	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X3_Alpine_Chamois	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X4_Red_Fox	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X5_European_Hare	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X6_Common_Hamster	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Cricetidae
+X7_European_Otter	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X10_House_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X11_Onager	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X13_Wolf	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X15_Tawny_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	gut	Strigidae
+X16_Fat_Dormouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Gliridae
+X18_West_European_Hedgehog	Vertebrata	root	Host-associated	Mammalia	Insectivora	feces	Erinaceidae
+X19_European_Ground_Squirrel	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Sciuridae
+X21_Yellow_necked_Field_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X22_European_Rabbit	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X23_Garden_Dormouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Gliridae
+X30_Beech_Marten	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X31_Chicken	Vertebrata	root	Host-associated	Aves	Galliformes	feces	Phasianidae
+X32_Greylag_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X33_Wild_Turkey	Vertebrata	root	Host-associated	Aves	Galliformes	feces	Phasianidae
+X34_Mallard_Duck	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X36_Agile_Frog	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Ranidae
+X37_Bank_Vole	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Cricetidae
+X38_Great_Tit	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Paridae
+X40_Bactrian_Camel	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Camelidae
+X41_Pika	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X42_Goitered_Gazelle	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X43_European_Badger	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X44_Meadow_Viper	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Viperidae
+X46_European_Nightjar	Vertebrata	root	Host-associated	Aves	Caprimulgiformes	feces	Caprimulgidae
+X50_Song_Thrush	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Turdidae
+X60_European_Chub	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X64_Eurasian_Ruffe	Vertebrata	root	Host-associated	Actinopterygii	Perciformes	feces	Percidae
+F42_Fallow_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+F157a_European_Toad	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Bufonidae
+X71_Fire_Salamander	Vertebrata	root	Host-associated	Amphibia	Caudata	feces	Salamandridae
+X72_Ural_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	feces	Strigidae
+X74_Steppe_Polecat	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X76_European_Polecat	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X77_Onager	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X79_Eurasian_Beaver	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Castoridae
+X80_European_Otter	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X81_Wolf	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X82_Eurasian_Ruffe	Vertebrata	root	Host-associated	Actinopterygii	Perciformes	feces	Percidae
+X83_Common_Rudd	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X84_Common_Chiffchaff	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Sylviidae
+X85_Domestic_Dog	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X87_Garden_Dormouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Gliridae
+X89_Fat_Dormouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Gliridae
+X90_Water_Rail	Vertebrata	root	Host-associated	Aves	Gruiformes	feces	Rallidae
+X91_Dunnock	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Passeridae
+X92_Lesser_White_toothed_Shrew	Vertebrata	root	Host-associated	Mammalia	Soricomorpha	feces	Soricidae
+X93_Red_Sheep	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X94_Mangalica	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Suidae
+X95_Meadow_Viper	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Viperidae
+X101_Horse	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X102_Kulan	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X103_Eurasian_Blackcap	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Sylviidae
+X104_European_Robin	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Turdidae
+X105_Eurasian_Teal	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X106_Eurasian_Teal	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X107_House_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X108_Striped_Desert_Hamster	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Cricetidae
+X109_Red_Fox	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X110_Noctule	Vertebrata	root	Host-associated	Mammalia	Chiroptera	gut	Vespertilionidae
+X111_West_European_Hedgehog	Vertebrata	root	Host-associated	Mammalia	Insectivora	feces	Erinaceidae
+X112_Eurasian_Sparrowhawk	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Accipitridae
+X113_Eurasian_Woodcock	Vertebrata	root	Host-associated	Aves	Charadriiformes	gut	Scolopacidae
+X115_Common_Kestrel	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Falconidae
+X116_Common_Kestrel	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Falconidae
+X117_Long_eared_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	feces	Strigidae
+X119_Ural_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	feces	Strigidae
+X120_Alpine_Shrew	Vertebrata	root	Host-associated	Mammalia	Soricomorpha	gut	Soricidae
+X121_Raccoon_Dog	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X122_Wild_Boar	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Suidae
+X123_Alpine_Chamois	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X124_Golden_Jackal	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+F157b_European_Toad	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Bufonidae
+X125_Common_Carp	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X126_White_Stork	Vertebrata	root	Host-associated	Aves	Ciconiiformes	feces	Ciconiidae
+X127_Alpine_Marmot	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Sciuridae
+X128_Alpine_Marmot	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Sciuridae
+X129_Alpine_Ibex	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X130_Alpine_Ibex	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X131_Rock_Ptarmigan	Vertebrata	root	Host-associated	Aves	Galliformes	feces	Phasianidae
+X133_Domestic_Goat	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X134_Domestic_Goat	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X135_Horse	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X136_Domestic_Pig	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Suidae
+X157_Grey_Heron	Vertebrata	root	Host-associated	Aves	Ciconiiformes	gut	Ardeidae
+X158_White_tailed_Eagle	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Accipitridae
+X137_Gaur	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X138_Gaur	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X139_Sambar	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X140_Sambar	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X190_Common_House_Gecko	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Gekkonidae
+X191_Common_House_Gecko	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Gekkonidae
+X164_Greylag_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X192_Common_Frog	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Ranidae
+X170_Tawny_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	gut	Strigidae
+X152_Tree_Shrew	Vertebrata	root	Host-associated	Mammalia	Scandentia	feces	Tupaiidae
+X171_Blackbird	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Turdidae
+X172_European_Greenfinch	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Fringillidae
+X174_Great_Tit	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Paridae
+X153_Bank_Vole	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Cricetidae
+X144_Cattle	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X146_Cattle	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X169_Great_Cormorant	Vertebrata	root	Host-associated	Aves	Pelecaniformes	feces	Phalacrocoracidae
+X159_White_tailed_Eagle	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Accipitridae
+X194_Agile_Frog	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Ranidae
+X188_Brook_Trout	Vertebrata	root	Host-associated	Actinopterygii	Salmoniformes	feces	Salmonidae
+X154_Tree_Shrew	Vertebrata	root	Host-associated	Mammalia	Scandentia	feces	Tupaiidae
+X155_Long_tailed_Field_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X141_Red_cheeked_Gibbon	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hylobatidae
+X179_Roach	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	gut	Cyprinidae
+X180_Roach	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	gut	Cyprinidae
+X181_Common_Carp	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	gut	Cyprinidae
+X183_European_Chub	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	gut	Cyprinidae
+X186_Brown_Trout	Vertebrata	root	Host-associated	Actinopterygii	Salmoniformes	gut	Salmonidae
+F241_Great_Cormorant	Vertebrata	root	Host-associated	Aves	Pelecaniformes	feces	Phalacrocoracidae
+X195_Domestic_Cat	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X196_Domestic_Cat	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X197_Human	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X198_Human	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X199_Human	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X200_Human	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X203_Red_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X208_Red_Sheep	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X212_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X213_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X214_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X215_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+F300_Asp	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+F302_Northern_Pike	Vertebrata	root	Host-associated	Actinopterygii	Esociformes	feces	Esocidae
+F315_Northern_Pike	Vertebrata	root	Host-associated	Actinopterygii	Esociformes	feces	Esocidae
+F144_Wood_Sandpiper	Vertebrata	root	Host-associated	Aves	Charadriiformes	feces	Scolopacidae
+X247_Common_Hamster	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Cricetidae
+X252_Eurasian_Lynx	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X313_Red_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X314_Red_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X231_Brown_Bear	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Ursidae
+X233_Aesculapian_Snake	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Colubridae
+X235_Pygmy_Slow_Loris	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Lorisidae
+X236_Pygmy_Slow_Loris	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Lorisidae
+X237_Red_shanked_Douc_Langur	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X238_Hanuman_Langur	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X239_Delacours_Langur	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X240_Southern_White_cheeked_Gibbon	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hylobatidae
+X241_Italian_wall_lizard	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Lacertidae
+X242_Dalmatian_Tortoise	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Testudinidae
+X243_Noctule	Vertebrata	root	Host-associated	Mammalia	Chiroptera	feces	Vespertilionidae
+X230_Carrion_Crow	Vertebrata	root	Host-associated	Aves	Passeriformes	gut	Corvidae
+X234_Beech_Marten	Vertebrata	root	Host-associated	Mammalia	Carnivora	gut	Mustelidae
+X244_Common_House_Martin	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Hirundinidae
+X246_Great_Spotted_Woodpecker	Vertebrata	root	Host-associated	Aves	Piciformes	feces	Picidae
+X248_Yellow_necked_Field_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X250_Common_Nase	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X256_Zander	Vertebrata	root	Host-associated	Actinopterygii	Perciformes	feces	Percidae
+X257_Eurasian_Woodcock	Vertebrata	root	Host-associated	Aves	Charadriiformes	feces	Scolopacidae
+X258_Eurasian_Magpie	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Corvidae
+X259_Mute_Swan	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X263_White_Stork	Vertebrata	root	Host-associated	Aves	Ciconiiformes	feces	Ciconiidae
+X264_Eurasian_Magpie	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Corvidae
+X265_Western_Marsh_Harrier	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Accipitridae
+X266_Western_Marsh_Harrier	Vertebrata	root	Host-associated	Aves	Falconiformes	gut	Accipitridae
+X267_Rook	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Corvidae
+X268_Rook	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Corvidae
+X270_Common_Pheasant	Vertebrata	root	Host-associated	Aves	Galliformes	gut	Phasianidae
+X271_Common_Pheasant	Vertebrata	root	Host-associated	Aves	Galliformes	gut	Phasianidae
+X272_Black_Grouse	Vertebrata	root	Host-associated	Aves	Galliformes	feces	Phasianidae
+X274_Brant_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X275_Barnacle_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X276_Barnacle_Goose	Vertebrata	root	Host-associated	Aves	Anseriformes	feces	Anatidae
+X277_Common_Zingel	Vertebrata	root	Host-associated	Actinopterygii	Perciformes	gut	Percidae
+X279_Western_Grey_Kangaroo	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Macropodidae
+X280_Western_Grey_Kangaroo	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Macropodidae
+X281_Tammar_Wallaby	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Macropodidae
+X282_Inland_Forest_Bat	Vertebrata	root	Host-associated	Mammalia	Chiroptera	feces	Vespertilionidae
+X283_Koala	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Phascolarctidae
+X284_Koala	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Phascolarctidae
+X285_Short_beaked_Echidna	Vertebrata	root	Host-associated	Mammalia	Monotremata	feces	Tachyglossidae
+X286_Short_beaked_Echidna	Vertebrata	root	Host-associated	Mammalia	Monotremata	feces	Tachyglossidae
+X287_Common_Brushtail	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Phalangeridae
+X288_Common_Brushtail	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Phalangeridae
+X289_Eastern_Grey_Kangaroo	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Macropodidae
+X291_Rosenbergs_Monitor	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Varanidae
+X292_Central_Bearded_Dragon	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Agamidae
+X294_Emu	Vertebrata	root	Host-associated	Aves	Struthioniformes	feces	Dromaiidae
+X295_Emu	Vertebrata	root	Host-associated	Aves	Struthioniformes	feces	Dromaiidae
+X296_Galah	Vertebrata	root	Host-associated	Aves	Psittaciformes	feces	Cacatuidae
+X297_Horsfields_Bronze_Cuckoo	Vertebrata	root	Host-associated	Aves	Cuculiformes	feces	Cuculidae
+X298_Horsfields_Bronze_Cuckoo	Vertebrata	root	Host-associated	Aves	Cuculiformes	feces	Cuculidae
+X300_Shy_Heathwren	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Acanthizidae
+X301_European_Hare	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X325_Asp	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X326_Silver_Bream	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X327_Silver_Bream	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X328_Prussian_Carp	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X329_Bleak	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X330_Ide	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X331_Harbor_Porpoise	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Phocoenidae
+X332_Harbor_Porpoise	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Phocoenidae
+X333_Gray_Seal	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Phocidae
+X334_Gray_Seal	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Phocidae
+X335_Harbor_Seal	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Phocidae
+X336_Sei_Whale	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Balaenopteridae
+X337_Sowerbys_Beaked_Whale	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Ziphiidae
+X338_White_beaked_Dolphin	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Delphinidae
+X339_White_beaked_Dolphin	Vertebrata	root	Host-associated	Mammalia	Cetacea	feces	Delphinidae
+X340_Western_Lowland_Gorilla	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X341_Western_Lowland_Gorilla	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Hominidae
+X342_European_Green_Toad	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Bufonidae
+X343_Sand_Lizard	Vertebrata	root	Host-associated	Reptilia	Squamata	gut	Lacertidae
+X344_Indian_Rhinoceros	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Rhinocerotidae
+X346_Ground_Pangolin	Vertebrata	root	Host-associated	Mammalia	Pholidota	feces	Manidae
+X347_Brown_Bear	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Ursidae
+X348_European_Rabbit	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	gut	Leporidae
+X349_Smooth_Newt	Vertebrata	root	Host-associated	Amphibia	Caudata	feces	Salamandridae
+X350_Smooth_Newt	Vertebrata	root	Host-associated	Amphibia	Caudata	feces	Salamandridae
+X351_Grass_Snake	Vertebrata	root	Host-associated	Reptilia	Squamata	feces	Colubridae
+X352_Kinkajou	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Procyonidae
+X353_Raccoon	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Procyonidae
+X354_Hoffmanns_Two_toed_Sloth	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Megalonychidae
+X355_Hoffmanns_Two_toed_Sloth	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Megalonychidae
+X356_Northern_Tamandua	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Myrmecophagidae
+X357_Northern_Tamandua	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Myrmecophagidae
+X358_Brown_throated_Sloth	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Bradypodidae
+X359_Brown_throated_Sloth	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Bradypodidae
+X360_White_tailed_Deer	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X362_Gray_Four_eyed_Opossum	Vertebrata	root	Host-associated	Mammalia	Didelphimorphia	gut	Didelphidae
+X363_Desmarests_Spiny_Pocket_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Heteromyidae
+X368_European_Ground_Squirrel	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Sciuridae
+X369_Koala	Vertebrata	root	Host-associated	Mammalia	Diprotodontia	feces	Phascolarctidae
+X370_African_Bush_Elephant	Vertebrata	root	Host-associated	Mammalia	Proboscidea	feces	Elephantidae
+X371_Linnaeus_Two_toed_Sloth	Vertebrata	root	Host-associated	Mammalia	Pilosa	feces	Megalonychidae
+X372_Emu	Vertebrata	root	Host-associated	Aves	Struthioniformes	feces	Dromaiidae
+X373_Least_Weasel	Vertebrata	root	Host-associated	Mammalia	Carnivora	gut	Mustelidae
+X375_European_Pine_Marten	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X376_Kulan	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X377_Fat_Sand_Rat	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Muridae
+X378_Fat_Sand_Rat	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Muridae
+X381_Wild_Boar	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Suidae
+X382_Arctic_Wolf	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X383_Arctic_Wolf	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Canidae
+X384_Eurasian_Lynx	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X389_Indian_Rhinoceros	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Rhinocerotidae
+X391_European_Ground_Squirrel	Vertebrata	root	Host-associated	Mammalia	Rodentia	feces	Sciuridae
+X392_House_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X393_European_Rabbit	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X394_Przewalski_horse	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X395_Przewalski_horse	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X396_Morelets_crocodile	Vertebrata	root	Host-associated	Reptilia	Crocodilia	feces	Crocodylidae
+X397_Penguin	Vertebrata	root	Host-associated	Aves	Sphenisciformes	feces	Spheniscidae
+X398_Eurasian_Reed_Warbler	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Sylviidae
+X399_Lion	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X400_House_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X403_Chacma_Baboon	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X404_Brown_Greater_Galago	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Galagidae
+X405_Nile_Crocodile	Vertebrata	root	Host-associated	Reptilia	Crocodilia	feces	Crocodylidae
+X407_African_Bush_Elephant	Vertebrata	root	Host-associated	Mammalia	Proboscidea	feces	Elephantidae
+X408_African_Bush_Elephant	Vertebrata	root	Host-associated	Mammalia	Proboscidea	feces	Elephantidae
+X409_Impala	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X410_Impala	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X411_Leopard	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X412_Lion	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X413_Lion	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Felidae
+X414_Vervet_Monkey	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X415_White_Rhinoceros	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Rhinocerotidae
+X416_White_Rhinoceros	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Rhinocerotidae
+X417_Giraffe	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Giraffidae
+X418_Giraffe	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Giraffidae
+X423_Quagga	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X424_Quagga	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X421_Common_Hippopotamus	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Hippopotamidae
+X422_Common_Hippopotamus	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Hippopotamidae
+X419_African_Buffalo	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X420_Cattle	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X425_Emu	Vertebrata	root	Host-associated	Aves	Struthioniformes	feces	Dromaiidae
+X426_Ural_Owl	Vertebrata	root	Host-associated	Aves	Strigiformes	feces	Strigidae
+X427_Great_Spotted_Woodpecker	Vertebrata	root	Host-associated	Aves	Piciformes	feces	Picidae
+X429_Giraffe	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Giraffidae
+X430_Giraffe	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Giraffidae
+X431_Quagga	Vertebrata	root	Host-associated	Mammalia	Perissodactyla	feces	Equidae
+X432_Vervet_Monkey	Vertebrata	root	Host-associated	Mammalia	Primates	feces	Cercopithecidae
+X433_Raccoon	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Procyonidae
+X434_Blue_Wildebeest	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X435_Bactrian_Camel	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Camelidae
+X114_fail_Hooded_Crow	Vertebrata	root	Host-associated	Aves	Passeriformes	gut	Corvidae
+X182_fail_Common_Nase	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	gut	Cyprinidae
+X185_Brown_Trout	Vertebrata	root	Host-associated	Actinopterygii	Salmoniformes	gut	Salmonidae
+X193_fail_Common_Frog	Vertebrata	root	Host-associated	Amphibia	Anura	feces	Ranidae
+X245_fail_Common_House_Martin	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Hirundinidae
+X251_fail_Slow_Worm	Vertebrata	root	Host-associated	Reptilia	Squamata	gut	Anguidae
+X261_fail_Common_Pipistrelle	Vertebrata	root	Host-associated	Mammalia	Chiroptera	gut	Vespertilionidae
+X299_fail_Chestnut_rumped_Thornbill	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Pardalotidae
+X345_fail_Alpine_Salamander	Vertebrata	root	Host-associated	Amphibia	Caudata	feces	Salamandridae
+X361_fail_Common_Opossum	Vertebrata	root	Host-associated	Mammalia	Didelphimorphia	gut	Didelphidae
+X364_fail_Fulvous_Harvest_Mouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Cricetidae
+X365_fail_Goldmans_Ichthyomyine	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Cricetidae
+X366_fail_Tomes_Spiny_Rat	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Echimyidae
+X367_fail_Dusky_Melanomys	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Muridae
+X374_fail_Least_Weasel	Vertebrata	root	Host-associated	Mammalia	Carnivora	gut	Mustelidae
+X401_fail_Blue_Wildebeest	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X402_fail_Blue_Wildebeest	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X55_fail1_Water_Pipit	Vertebrata	root	Host-associated	Aves	Passeriformes	feces	Motacillidae
+X62_fail1_Common_Rudd	Vertebrata	root	Host-associated	Actinopterygii	Cypriniformes	feces	Cyprinidae
+X63_fail1_European_Perch	Vertebrata	root	Host-associated	Actinopterygii	Perciformes	feces	Percidae
+X75_fail1_Steppe_Polecat	Vertebrata	root	Host-associated	Mammalia	Carnivora	feces	Mustelidae
+X78_Indian_Gazelle	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X8_Garden_Dormouse	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Gliridae
+X66_Mouflon	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X221_Alpine_Ibex	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Bovidae
+X73_One_humped_Camel	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Camelidae
+X67_European_Roe	Vertebrata	root	Host-associated	Mammalia	Artiodactyla	feces	Cervidae
+X96_European_Hare	Vertebrata	root	Host-associated	Mammalia	Lagomorpha	feces	Leporidae
+X98_Eurasian_Red_Squirrel	Vertebrata	root	Host-associated	Mammalia	Rodentia	gut	Sciuridae
+X187_fail_Rainbow_Trout	Vertebrata	root	Host-associated	Actinopterygii	Salmoniformes	feces	Salmonidae
+X232_fail_Brown_Trout	Vertebrata	root	Host-associated	Actinopterygii	Salmoniformes	gut	Salmonidae
+AC622	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AC660	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AC665	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AC667	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AC668	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APAL36	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APAL37	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APAL38	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APAL39	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF103	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF104	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF105	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF106	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF36	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF37	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF38	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+APF39	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+JB10	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+Ahyb1000	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Ahyb135	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Ahyb257	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Ahyb401	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Ahyb411	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Apalw13	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Apalw14	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Asen1111	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Asen685	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AsenLink1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AsenLink2	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AsenLink3	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AsenLink4	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AtbelzLink1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AtbelzLink2	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AtbelzLink3	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AtbelzLink4	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+AtbelzLink5	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+BWC2023	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+BWC2026	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+BWC2061	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+BWC2063	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+BWC2115	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+ERUB.102M	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+ERUB.105M	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+ERUB.10M	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+ERUB.12M	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+ERUB.20M	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+Gor1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Gor11	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Gor12	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Gor2	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Gor3	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+JB1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB12	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB13	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB15	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB17	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB18	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB24	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB25	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB27	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB28	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB29	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB3	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB32	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+JB34	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+LabEllis3	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+LagAb2	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+LagEllis1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+LagEllis4	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+LagEllis5	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Atelidae
+Lc259	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+Lc301	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+Lc307	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+Lc308	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+Lc310	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Lemuridae
+PTr14	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+PVAbb	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+PVLou	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+PVPam	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+PVPet	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+PVQui	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+Ptr1	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Ptr10	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Ptr11	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+Ptr13	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+RC2036	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RC2068	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RC2071	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RC2096	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RC2098	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RT2013	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RT2017	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RT2019	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RT2021	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+RT2048	Amato_2019	root	Host-associated	Mammalia	Primates	fecal	Cercopithecidae
+100UNCULTURED_S7	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+14UNCULTURED_S8	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+18UNCULTURED_S12	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+19UNCULTURED_S14	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+24UNCULTURED_S3	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+26UNCULTURED_S4	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+28UNCULTURED_S6	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+2UNCULTURED_S1	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+300UNCULTURED_S9	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+36UNCULTURED_S10	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+400UNCULTURED_S11	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+40UNCULTURED_S15	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+4UNCULTURED_S2	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+500UNCULTURED_S13	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+8UNCULTURED_S5	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+lucaAR31_S16	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+lucaAR32_S17	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+lucaAR33_S18	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+lucaAR34_S19	Muehlbauer_2020	root	Host-associated	Mammalia	Primates	fecal	Hominidae
+SRR11092499	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Solanaceae
+SRR11092502	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Solanaceae
+SRR11092505	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Asteraceae
+SRR11092509	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Solanaceae
+SRR11092511	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Poaceae
+SRR11092496	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	NA
+SRR11092498	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Asteraceae
+SRR11092501	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Poaceae
+SRR11092506	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Solanaceae
+SRR11092508	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Poaceae
+SRR11092512	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Solanaceae
+SRR10527383	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527384	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527385	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	NA
+SRR10527386	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527387	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527390	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527391	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527392	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527393	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527394	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527395	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527396	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+SRR10527389	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Solanaceae
+ERR2144868	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144869	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144870	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144871	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144872	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144873	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144874	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144875	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144876	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144877	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144878	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144879	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144880	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144881	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144882	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144883	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144884	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144885	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144886	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144887	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144888	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144889	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144890	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144891	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144892	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144893	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144894	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144895	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144896	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144897	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144898	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144899	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2144900	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114804	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114805	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114806	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114807	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114808	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114809	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114810	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114811	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+ERR2114812	MGYS00005398	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Salviniaceae
+SRR4142418	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Asparagaceae
+SRR5210702	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210704	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210705	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210706	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210707	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210747	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR5210830	NA	root	Host-associated	Plants	bioreactor metagenome	bioreactor metagenome	Paniceae
+SRR6435859	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435862	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435880	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435882	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435883	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435884	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435887	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435946	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435947	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435948	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435949	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435951	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435956	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435958	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435959	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435960	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435961	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435983	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6435984	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6436016	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6436017	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6436020	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6436021	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6489859	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Brassicaceae
+SRR6942504	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Paniceae
+SRR6942514	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Paniceae
+SRR6942518	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Paniceae
+SRR6942519	NA	root	Host-associated	Plants	Rhizosphere	Rhizosphere	Paniceae
+SRR6982567	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Paniceae
+SRR6982699	NA	root	Host-associated	Plants	Phyllosphere	Phyllosphere	Paniceae
