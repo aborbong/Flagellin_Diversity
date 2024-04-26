@@ -1,0 +1,786 @@
+,Sample,Dataset,biome_0,biome_1,biome_2,biome_3,biome_4,family,category,mammals
+ERS1030529,ERS1030529,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030531,ERS1030531,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030532,ERS1030532,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030533,ERS1030533,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030534,ERS1030534,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030535,ERS1030535,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030536,ERS1030536,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030537,ERS1030537,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030538,ERS1030538,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1030539,ERS1030539,MGYS00000599,root,Environmental,Aquatic,Freshwater,Ice,NA,Environmental,Others
+ERS1065340,ERS1065340,MGYS00000631,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS1065341,ERS1065341,MGYS00000631,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS1065342,ERS1065342,MGYS00000631,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS1115236,ERS1115236,MGYS00000802,root,Environmental,Terrestrial,Soil,Desert,NA,Environmental,Others
+ERS1115237,ERS1115237,MGYS00000802,root,Environmental,Terrestrial,Soil,Desert,NA,Environmental,Others
+ERS1115238,ERS1115238,MGYS00000802,root,Environmental,Terrestrial,Soil,Desert,NA,Environmental,Others
+ERS1115239,ERS1115239,MGYS00000802,root,Environmental,Terrestrial,Soil,Desert,NA,Environmental,Others
+ERS1222671,ERS1222671,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1222672,ERS1222672,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1222673,ERS1222673,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1222674,ERS1222674,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1222675,ERS1222675,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1222676,ERS1222676,MGYS00001690,root,Environmental,Aquatic,Freshwater,Lentic,NA,Environmental,Others
+ERS1286097,ERS1286097,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286098,ERS1286098,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286101,ERS1286101,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286102,ERS1286102,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286103,ERS1286103,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286104,ERS1286104,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286105,ERS1286105,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286110,ERS1286110,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286194,ERS1286194,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286195,ERS1286195,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286196,ERS1286196,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286204,ERS1286204,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286206,ERS1286206,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286207,ERS1286207,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286208,ERS1286208,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286209,ERS1286209,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286210,ERS1286210,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1286734,ERS1286734,MGYS00001512,root,Environmental,Aquatic,Marine,Sediment,NA,Environmental,Others
+ERS1353918,ERS1353918,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353919,ERS1353919,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353920,ERS1353920,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353921,ERS1353921,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353922,ERS1353922,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353923,ERS1353923,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353924,ERS1353924,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1353925,ERS1353925,MGYS00001254,root,Host-associated,Mammalia,Digestive system,Large intestine,Cricetidae,Animal,Mammalia
+ERS1418469,ERS1418469,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418471,ERS1418471,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418472,ERS1418472,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418473,ERS1418473,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418475,ERS1418475,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418476,ERS1418476,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418477,ERS1418477,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418479,ERS1418479,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418480,ERS1418480,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418481,ERS1418481,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418482,ERS1418482,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418484,ERS1418484,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418486,ERS1418486,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418487,ERS1418487,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418488,ERS1418488,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1418490,ERS1418490,MGYS00001291,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS1455389,ERS1455389,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1455390,ERS1455390,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1455391,ERS1455391,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459885,ERS1459885,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459886,ERS1459886,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459887,ERS1459887,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459888,ERS1459888,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459889,ERS1459889,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1459890,ERS1459890,MGYS00001321,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Hypersaline,NA,Environmental,Others
+ERS1474378,ERS1474378,MGYS00001380,root,Host-associated,Mammalia,Digestive system,Fecal,Muridae,Animal,Mammalia
+ERS1474385,ERS1474385,MGYS00001380,root,Host-associated,Mammalia,Digestive system,Fecal,Muridae,Animal,Mammalia
+ERS1546719,ERS1546719,MGYS00004547,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Saline,NA,Environmental,Others
+ERS1546720,ERS1546720,MGYS00004547,root,Environmental,Aquatic,Non-marine Saline and Alkaline,Saline,NA,Environmental,Others
+ERS1579925,ERS1579925,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579927,ERS1579927,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579929,ERS1579929,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579930,ERS1579930,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579932,ERS1579932,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579933,ERS1579933,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579934,ERS1579934,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579935,ERS1579935,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579937,ERS1579937,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579938,ERS1579938,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579939,ERS1579939,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579941,ERS1579941,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579942,ERS1579942,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579943,ERS1579943,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579944,ERS1579944,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579945,ERS1579945,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579946,ERS1579946,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579947,ERS1579947,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579948,ERS1579948,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579950,ERS1579950,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579952,ERS1579952,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579953,ERS1579953,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1579955,ERS1579955,MGYS00001583,root,Host-associated,Actinopterygii,Digestive system,Foregut,Salmonidae,Animal,Others
+ERS1719612,ERS1719612,MGYS00001761,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS1719613,ERS1719613,MGYS00001761,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS1719616,ERS1719616,MGYS00001761,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS1719617,ERS1719617,MGYS00001761,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS1719619,ERS1719619,MGYS00001761,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS1847598,ERS1847598,MGYS00001912,root,Host-associated,Mammalia,Digestive system,Fecal,Muridae,Animal,Mammalia
+ERS1847603,ERS1847603,MGYS00001912,root,Host-associated,Mammalia,Digestive system,Fecal,Muridae,Animal,Mammalia
+ERS1847609,ERS1847609,MGYS00001912,root,Host-associated,Mammalia,Digestive system,Fecal,Muridae,Animal,Mammalia
+ERS2085081,ERS2085081,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085097,ERS2085097,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085102,ERS2085102,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085138,ERS2085138,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085150,ERS2085150,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085180,ERS2085180,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085182,ERS2085182,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085187,ERS2085187,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085192,ERS2085192,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085201,ERS2085201,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085221,ERS2085221,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085225,ERS2085225,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085248,ERS2085248,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085258,ERS2085258,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085267,ERS2085267,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085269,ERS2085269,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085273,ERS2085273,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085281,ERS2085281,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085318,ERS2085318,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085321,ERS2085321,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085337,ERS2085337,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085340,ERS2085340,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085352,ERS2085352,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085357,ERS2085357,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085366,ERS2085366,MGYS00003488,root,Host-associated,Aves,Digestive system,Fecal,Phasianidae,Animal,Others
+ERS2085389,ERS2085389,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2085419,ERS2085419,MGYS00003488,root,Host-associated,Mammalia,Digestive system,Fecal,Suidae,Animal,Mammalia
+ERS2176280,ERS2176280,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176281,ERS2176281,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176282,ERS2176282,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176283,ERS2176283,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176284,ERS2176284,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176285,ERS2176285,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176286,ERS2176286,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176287,ERS2176287,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176288,ERS2176288,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176289,ERS2176289,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176290,ERS2176290,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS2176291,ERS2176291,MGYS00002286,root,Environmental,Aquatic,Marine,Coastal,NA,Environmental,Others
+ERS233525,ERS233525,MGYS00000320,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS233527,ERS233527,MGYS00000320,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS2464028,ERS2464028,MGYS00002388,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS2464054,ERS2464054,MGYS00002388,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS2464055,ERS2464055,MGYS00002388,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS2867115,ERS2867115,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867116,ERS2867116,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867118,ERS2867118,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867119,ERS2867119,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867120,ERS2867120,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867121,ERS2867121,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867122,ERS2867122,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867124,ERS2867124,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867127,ERS2867127,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867128,ERS2867128,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867130,ERS2867130,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2867137,ERS2867137,MGYS00003472,root,Host-associated,Aves,Digestive system,Fecal,Anatidae,Animal,Others
+ERS2876942,ERS2876942,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876943,ERS2876943,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876944,ERS2876944,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876945,ERS2876945,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876946,ERS2876946,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876947,ERS2876947,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876948,ERS2876948,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876949,ERS2876949,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS2876950,ERS2876950,MGYS00003605,root,Environmental,Aquatic,Freshwater,Sediment,NA,Environmental,Others
+ERS606296,ERS606296,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606314,ERS606314,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606326,ERS606326,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606338,ERS606338,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606394,ERS606394,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606420,ERS606420,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606431,ERS606431,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS606451,ERS606451,MGYS00001193,root,Host-associated,Mammalia,Digestive system,Large intestine,Muridae,Animal,Mammalia
+ERS612888,ERS612888,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612889,ERS612889,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612890,ERS612890,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612892,ERS612892,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612893,ERS612893,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612894,ERS612894,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612895,ERS612895,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612896,ERS612896,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612897,ERS612897,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612898,ERS612898,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS612899,ERS612899,MGYS00000447,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+ERS723591,ERS723591,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723593,ERS723593,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723595,ERS723595,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723597,ERS723597,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723600,ERS723600,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723606,ERS723606,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723607,ERS723607,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723609,ERS723609,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723612,ERS723612,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723614,ERS723614,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723616,ERS723616,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723622,ERS723622,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723624,ERS723624,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723627,ERS723627,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723630,ERS723630,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723631,ERS723631,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723632,ERS723632,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723636,ERS723636,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723638,ERS723638,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723639,ERS723639,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723641,ERS723641,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723644,ERS723644,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723647,ERS723647,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723661,ERS723661,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723663,ERS723663,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723666,ERS723666,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723671,ERS723671,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723673,ERS723673,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723675,ERS723675,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS723676,ERS723676,MGYS00001796,root,Host-associated,Mammalia,Digestive system,Large intestine,Felidae,Animal,Mammalia
+ERS812543,ERS812543,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812544,ERS812544,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812545,ERS812545,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812546,ERS812546,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812547,ERS812547,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812548,ERS812548,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812549,ERS812549,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS812550,ERS812550,MGYS00001951,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+ERS846450,ERS846450,MGYS00002018,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS846452,ERS846452,MGYS00002018,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS846457,ERS846457,MGYS00002018,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS846460,ERS846460,MGYS00002018,root,Environmental,Terrestrial,Soil,Permafrost,NA,Environmental,Others
+ERS846462,ERS846462,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS846464,ERS846464,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS846465,ERS846465,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS846466,ERS846466,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS846467,ERS846467,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS846468,ERS846468,MGYS00002018,root,Environmental,Terrestrial,Soil,Grasslands,NA,Environmental,Others
+ERS970171,ERS970171,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970200,ERS970200,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970208,ERS970208,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970213,ERS970213,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970222,ERS970222,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970227,ERS970227,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970241,ERS970241,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970242,ERS970242,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970310,ERS970310,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970319,ERS970319,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970335,ERS970335,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970370,ERS970370,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970384,ERS970384,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970393,ERS970393,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970396,ERS970396,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970401,ERS970401,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+ERS970416,ERS970416,MGYS00001225,root,Host-associated,Mammalia,Digestive system,Large intestine,Suidae,Animal,Mammalia
+SRS1367454,SRS1367454,MGYS00002134,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+SRS1367458,SRS1367458,MGYS00002134,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+SRS1367460,SRS1367460,MGYS00002134,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+SRS1367461,SRS1367461,MGYS00002134,root,Environmental,Aquatic,Marine,Intertidal zone,NA,Environmental,Others
+SRS429584,SRS429584,MGYS00000562,root,Host-associated,Mammalia,Digestive system,Stomach,Bovidae,Animal,Mammalia
+SRS697243,SRS697243,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697332,SRS697332,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697336,SRS697336,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697337,SRS697337,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697338,SRS697338,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697339,SRS697339,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697340,SRS697340,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697341,SRS697341,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697342,SRS697342,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697346,SRS697346,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697347,SRS697347,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS697348,SRS697348,MGYS00000989,root,Environmental,Terrestrial,Soil,Sand,NA,Environmental,Others
+SRS963313,SRS963313,MGYS00003658,root,Environmental,Aquatic,Freshwater,Groundwater,NA,Environmental,Others
+SRS963594,SRS963594,MGYS00003658,root,Environmental,Aquatic,Freshwater,Groundwater,NA,Environmental,Others
+SRS963627,SRS963627,MGYS00003658,root,Environmental,Aquatic,Freshwater,Groundwater,NA,Environmental,Others
+F14_Common_Bream,F14_Common_Bream,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+F141_Wood_Sandpiper,F141_Wood_Sandpiper,Vertebrata,root,Host-associated,Aves,Charadriiformes,feces,Scolopacidae,Animal,Others
+F144_Wood_Sandpiper,F144_Wood_Sandpiper,Vertebrata,root,Host-associated,Aves,Charadriiformes,feces,Scolopacidae,Animal,Others
+F157a_European_Toad,F157a_European_Toad,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Bufonidae,Animal,Others
+F157b_European_Toad,F157b_European_Toad,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Bufonidae,Animal,Others
+F241_Great_Cormorant,F241_Great_Cormorant,Vertebrata,root,Host-associated,Aves,Pelecaniformes,feces,Phalacrocoracidae,Animal,Others
+F300_Asp,F300_Asp,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+F302_Northern_Pike,F302_Northern_Pike,Vertebrata,root,Host-associated,Actinopterygii,Esociformes,feces,Esocidae,Animal,Others
+F315_Northern_Pike,F315_Northern_Pike,Vertebrata,root,Host-associated,Actinopterygii,Esociformes,feces,Esocidae,Animal,Others
+F42_Fallow_Deer,F42_Fallow_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+F44_Fallow_Deer,F44_Fallow_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+F90_Domestic_Dog,F90_Domestic_Dog,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X1_Eurasian_Beaver,X1_Eurasian_Beaver,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Castoridae,Animal,Mammalia
+X10_House_Mouse,X10_House_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X101_Horse,X101_Horse,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X102_Kulan,X102_Kulan,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X103_Eurasian_Blackcap,X103_Eurasian_Blackcap,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Sylviidae,Animal,Others
+X104_European_Robin,X104_European_Robin,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Turdidae,Animal,Others
+X105_Eurasian_Teal,X105_Eurasian_Teal,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X106_Eurasian_Teal,X106_Eurasian_Teal,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X107_House_Mouse,X107_House_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X108_Striped_Desert_Hamster,X108_Striped_Desert_Hamster,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Cricetidae,Animal,Mammalia
+X109_Red_Fox,X109_Red_Fox,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X11_Onager,X11_Onager,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X110_Noctule,X110_Noctule,Vertebrata,root,Host-associated,Mammalia,Chiroptera,gut,Vespertilionidae,Animal,Mammalia
+X111_West_European_Hedgehog,X111_West_European_Hedgehog,Vertebrata,root,Host-associated,Mammalia,Insectivora,feces,Erinaceidae,Animal,Mammalia
+X112_Eurasian_Sparrowhawk,X112_Eurasian_Sparrowhawk,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Accipitridae,Animal,Others
+X113_Eurasian_Woodcock,X113_Eurasian_Woodcock,Vertebrata,root,Host-associated,Aves,Charadriiformes,gut,Scolopacidae,Animal,Others
+X114_fail_Hooded_Crow,X114_fail_Hooded_Crow,Vertebrata,root,Host-associated,Aves,Passeriformes,gut,Corvidae,Animal,Others
+X115_Common_Kestrel,X115_Common_Kestrel,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Falconidae,Animal,Others
+X116_Common_Kestrel,X116_Common_Kestrel,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Falconidae,Animal,Others
+X117_Long_eared_Owl,X117_Long_eared_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,feces,Strigidae,Animal,Others
+X119_Ural_Owl,X119_Ural_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,feces,Strigidae,Animal,Others
+X120_Alpine_Shrew,X120_Alpine_Shrew,Vertebrata,root,Host-associated,Mammalia,Soricomorpha,gut,Soricidae,Animal,Mammalia
+X121_Raccoon_Dog,X121_Raccoon_Dog,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X122_Wild_Boar,X122_Wild_Boar,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Suidae,Animal,Mammalia
+X123_Alpine_Chamois,X123_Alpine_Chamois,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X124_Golden_Jackal,X124_Golden_Jackal,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X125_Common_Carp,X125_Common_Carp,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X126_White_Stork,X126_White_Stork,Vertebrata,root,Host-associated,Aves,Ciconiiformes,feces,Ciconiidae,Animal,Others
+X127_Alpine_Marmot,X127_Alpine_Marmot,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Sciuridae,Animal,Mammalia
+X128_Alpine_Marmot,X128_Alpine_Marmot,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Sciuridae,Animal,Mammalia
+X129_Alpine_Ibex,X129_Alpine_Ibex,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X13_Wolf,X13_Wolf,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X130_Alpine_Ibex,X130_Alpine_Ibex,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X131_Rock_Ptarmigan,X131_Rock_Ptarmigan,Vertebrata,root,Host-associated,Aves,Galliformes,feces,Phasianidae,Animal,Others
+X133_Domestic_Goat,X133_Domestic_Goat,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X134_Domestic_Goat,X134_Domestic_Goat,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X135_Horse,X135_Horse,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X136_Domestic_Pig,X136_Domestic_Pig,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Suidae,Animal,Mammalia
+X137_Gaur,X137_Gaur,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X138_Gaur,X138_Gaur,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X139_Sambar,X139_Sambar,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X140_Sambar,X140_Sambar,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X141_Red_cheeked_Gibbon,X141_Red_cheeked_Gibbon,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hylobatidae,Animal,Mammalia
+X144_Cattle,X144_Cattle,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X146_Cattle,X146_Cattle,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X15_Tawny_Owl,X15_Tawny_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,gut,Strigidae,Animal,Others
+X152_Tree_Shrew,X152_Tree_Shrew,Vertebrata,root,Host-associated,Mammalia,Scandentia,feces,Tupaiidae,Animal,Mammalia
+X153_Bank_Vole,X153_Bank_Vole,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Cricetidae,Animal,Mammalia
+X154_Tree_Shrew,X154_Tree_Shrew,Vertebrata,root,Host-associated,Mammalia,Scandentia,feces,Tupaiidae,Animal,Mammalia
+X155_Long_tailed_Field_Mouse,X155_Long_tailed_Field_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X157_Grey_Heron,X157_Grey_Heron,Vertebrata,root,Host-associated,Aves,Ciconiiformes,gut,Ardeidae,Animal,Others
+X158_White_tailed_Eagle,X158_White_tailed_Eagle,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Accipitridae,Animal,Others
+X159_White_tailed_Eagle,X159_White_tailed_Eagle,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Accipitridae,Animal,Others
+X16_Fat_Dormouse,X16_Fat_Dormouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Gliridae,Animal,Mammalia
+X164_Greylag_Goose,X164_Greylag_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X169_Great_Cormorant,X169_Great_Cormorant,Vertebrata,root,Host-associated,Aves,Pelecaniformes,feces,Phalacrocoracidae,Animal,Others
+X170_Tawny_Owl,X170_Tawny_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,gut,Strigidae,Animal,Others
+X171_Blackbird,X171_Blackbird,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Turdidae,Animal,Others
+X172_European_Greenfinch,X172_European_Greenfinch,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Fringillidae,Animal,Others
+X174_Great_Tit,X174_Great_Tit,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Paridae,Animal,Others
+X179_Roach,X179_Roach,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,gut,Cyprinidae,Animal,Others
+X18_West_European_Hedgehog,X18_West_European_Hedgehog,Vertebrata,root,Host-associated,Mammalia,Insectivora,feces,Erinaceidae,Animal,Mammalia
+X180_Roach,X180_Roach,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,gut,Cyprinidae,Animal,Others
+X181_Common_Carp,X181_Common_Carp,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,gut,Cyprinidae,Animal,Others
+X182_fail_Common_Nase,X182_fail_Common_Nase,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,gut,Cyprinidae,Animal,Others
+X183_European_Chub,X183_European_Chub,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,gut,Cyprinidae,Animal,Others
+X185_Brown_Trout,X185_Brown_Trout,Vertebrata,root,Host-associated,Actinopterygii,Salmoniformes,gut,Salmonidae,Animal,Others
+X186_Brown_Trout,X186_Brown_Trout,Vertebrata,root,Host-associated,Actinopterygii,Salmoniformes,gut,Salmonidae,Animal,Others
+X187_fail_Rainbow_Trout,X187_fail_Rainbow_Trout,Vertebrata,root,Host-associated,Actinopterygii,Salmoniformes,feces,Salmonidae,Animal,Others
+X188_Brook_Trout,X188_Brook_Trout,Vertebrata,root,Host-associated,Actinopterygii,Salmoniformes,feces,Salmonidae,Animal,Others
+X19_European_Ground_Squirrel,X19_European_Ground_Squirrel,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Sciuridae,Animal,Mammalia
+X190_Common_House_Gecko,X190_Common_House_Gecko,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Gekkonidae,Animal,Others
+X191_Common_House_Gecko,X191_Common_House_Gecko,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Gekkonidae,Animal,Others
+X192_Common_Frog,X192_Common_Frog,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Ranidae,Animal,Others
+X193_fail_Common_Frog,X193_fail_Common_Frog,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Ranidae,Animal,Others
+X194_Agile_Frog,X194_Agile_Frog,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Ranidae,Animal,Others
+X195_Domestic_Cat,X195_Domestic_Cat,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X196_Domestic_Cat,X196_Domestic_Cat,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X197_Human,X197_Human,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X198_Human,X198_Human,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X199_Human,X199_Human,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X2_Raccoon_Dog,X2_Raccoon_Dog,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X200_Human,X200_Human,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X203_Red_Deer,X203_Red_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X208_Red_Sheep,X208_Red_Sheep,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X21_Yellow_necked_Field_Mouse,X21_Yellow_necked_Field_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X212_Goose,X212_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X213_Goose,X213_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X214_Goose,X214_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X215_Goose,X215_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X22_European_Rabbit,X22_European_Rabbit,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X221_Alpine_Ibex,X221_Alpine_Ibex,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X23_Garden_Dormouse,X23_Garden_Dormouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Gliridae,Animal,Mammalia
+X230_Carrion_Crow,X230_Carrion_Crow,Vertebrata,root,Host-associated,Aves,Passeriformes,gut,Corvidae,Animal,Others
+X231_Brown_Bear,X231_Brown_Bear,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Ursidae,Animal,Mammalia
+X232_fail_Brown_Trout,X232_fail_Brown_Trout,Vertebrata,root,Host-associated,Actinopterygii,Salmoniformes,gut,Salmonidae,Animal,Others
+X233_Aesculapian_Snake,X233_Aesculapian_Snake,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Colubridae,Animal,Others
+X234_Beech_Marten,X234_Beech_Marten,Vertebrata,root,Host-associated,Mammalia,Carnivora,gut,Mustelidae,Animal,Mammalia
+X235_Pygmy_Slow_Loris,X235_Pygmy_Slow_Loris,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Lorisidae,Animal,Mammalia
+X236_Pygmy_Slow_Loris,X236_Pygmy_Slow_Loris,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Lorisidae,Animal,Mammalia
+X237_Red_shanked_Douc_Langur,X237_Red_shanked_Douc_Langur,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X238_Hanuman_Langur,X238_Hanuman_Langur,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X239_Delacours_Langur,X239_Delacours_Langur,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X240_Southern_White_cheeked_Gibbon,X240_Southern_White_cheeked_Gibbon,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hylobatidae,Animal,Mammalia
+X241_Italian_wall_lizard,X241_Italian_wall_lizard,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Lacertidae,Animal,Others
+X242_Dalmatian_Tortoise,X242_Dalmatian_Tortoise,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Testudinidae,Animal,Others
+X243_Noctule,X243_Noctule,Vertebrata,root,Host-associated,Mammalia,Chiroptera,feces,Vespertilionidae,Animal,Mammalia
+X244_Common_House_Martin,X244_Common_House_Martin,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Hirundinidae,Animal,Others
+X245_fail_Common_House_Martin,X245_fail_Common_House_Martin,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Hirundinidae,Animal,Others
+X246_Great_Spotted_Woodpecker,X246_Great_Spotted_Woodpecker,Vertebrata,root,Host-associated,Aves,Piciformes,feces,Picidae,Animal,Others
+X247_Common_Hamster,X247_Common_Hamster,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Cricetidae,Animal,Mammalia
+X248_Yellow_necked_Field_Mouse,X248_Yellow_necked_Field_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X250_Common_Nase,X250_Common_Nase,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X251_fail_Slow_Worm,X251_fail_Slow_Worm,Vertebrata,root,Host-associated,Reptilia,Squamata,gut,Anguidae,Animal,Others
+X252_Eurasian_Lynx,X252_Eurasian_Lynx,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X256_Zander,X256_Zander,Vertebrata,root,Host-associated,Actinopterygii,Perciformes,feces,Percidae,Animal,Others
+X257_Eurasian_Woodcock,X257_Eurasian_Woodcock,Vertebrata,root,Host-associated,Aves,Charadriiformes,feces,Scolopacidae,Animal,Others
+X258_Eurasian_Magpie,X258_Eurasian_Magpie,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Corvidae,Animal,Others
+X259_Mute_Swan,X259_Mute_Swan,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X261_fail_Common_Pipistrelle,X261_fail_Common_Pipistrelle,Vertebrata,root,Host-associated,Mammalia,Chiroptera,gut,Vespertilionidae,Animal,Mammalia
+X263_White_Stork,X263_White_Stork,Vertebrata,root,Host-associated,Aves,Ciconiiformes,feces,Ciconiidae,Animal,Others
+X264_Eurasian_Magpie,X264_Eurasian_Magpie,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Corvidae,Animal,Others
+X265_Western_Marsh_Harrier,X265_Western_Marsh_Harrier,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Accipitridae,Animal,Others
+X266_Western_Marsh_Harrier,X266_Western_Marsh_Harrier,Vertebrata,root,Host-associated,Aves,Falconiformes,gut,Accipitridae,Animal,Others
+X267_Rook,X267_Rook,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Corvidae,Animal,Others
+X268_Rook,X268_Rook,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Corvidae,Animal,Others
+X270_Common_Pheasant,X270_Common_Pheasant,Vertebrata,root,Host-associated,Aves,Galliformes,gut,Phasianidae,Animal,Others
+X271_Common_Pheasant,X271_Common_Pheasant,Vertebrata,root,Host-associated,Aves,Galliformes,gut,Phasianidae,Animal,Others
+X272_Black_Grouse,X272_Black_Grouse,Vertebrata,root,Host-associated,Aves,Galliformes,feces,Phasianidae,Animal,Others
+X274_Brant_Goose,X274_Brant_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X275_Barnacle_Goose,X275_Barnacle_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X276_Barnacle_Goose,X276_Barnacle_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X277_Common_Zingel,X277_Common_Zingel,Vertebrata,root,Host-associated,Actinopterygii,Perciformes,gut,Percidae,Animal,Others
+X279_Western_Grey_Kangaroo,X279_Western_Grey_Kangaroo,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Macropodidae,Animal,Mammalia
+X280_Western_Grey_Kangaroo,X280_Western_Grey_Kangaroo,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Macropodidae,Animal,Mammalia
+X281_Tammar_Wallaby,X281_Tammar_Wallaby,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Macropodidae,Animal,Mammalia
+X282_Inland_Forest_Bat,X282_Inland_Forest_Bat,Vertebrata,root,Host-associated,Mammalia,Chiroptera,feces,Vespertilionidae,Animal,Mammalia
+X283_Koala,X283_Koala,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Phascolarctidae,Animal,Mammalia
+X284_Koala,X284_Koala,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Phascolarctidae,Animal,Mammalia
+X285_Short_beaked_Echidna,X285_Short_beaked_Echidna,Vertebrata,root,Host-associated,Mammalia,Monotremata,feces,Tachyglossidae,Animal,Mammalia
+X286_Short_beaked_Echidna,X286_Short_beaked_Echidna,Vertebrata,root,Host-associated,Mammalia,Monotremata,feces,Tachyglossidae,Animal,Mammalia
+X287_Common_Brushtail,X287_Common_Brushtail,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Phalangeridae,Animal,Mammalia
+X288_Common_Brushtail,X288_Common_Brushtail,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Phalangeridae,Animal,Mammalia
+X289_Eastern_Grey_Kangaroo,X289_Eastern_Grey_Kangaroo,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Macropodidae,Animal,Mammalia
+X291_Rosenbergs_Monitor,X291_Rosenbergs_Monitor,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Varanidae,Animal,Others
+X292_Central_Bearded_Dragon,X292_Central_Bearded_Dragon,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Agamidae,Animal,Others
+X294_Emu,X294_Emu,Vertebrata,root,Host-associated,Aves,Struthioniformes,feces,Dromaiidae,Animal,Others
+X295_Emu,X295_Emu,Vertebrata,root,Host-associated,Aves,Struthioniformes,feces,Dromaiidae,Animal,Others
+X296_Galah,X296_Galah,Vertebrata,root,Host-associated,Aves,Psittaciformes,feces,Cacatuidae,Animal,Others
+X297_Horsfields_Bronze_Cuckoo,X297_Horsfields_Bronze_Cuckoo,Vertebrata,root,Host-associated,Aves,Cuculiformes,feces,Cuculidae,Animal,Others
+X298_Horsfields_Bronze_Cuckoo,X298_Horsfields_Bronze_Cuckoo,Vertebrata,root,Host-associated,Aves,Cuculiformes,feces,Cuculidae,Animal,Others
+X299_fail_Chestnut_rumped_Thornbill,X299_fail_Chestnut_rumped_Thornbill,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Pardalotidae,Animal,Others
+X3_Alpine_Chamois,X3_Alpine_Chamois,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X30_Beech_Marten,X30_Beech_Marten,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X300_Shy_Heathwren,X300_Shy_Heathwren,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Acanthizidae,Animal,Others
+X301_European_Hare,X301_European_Hare,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X31_Chicken,X31_Chicken,Vertebrata,root,Host-associated,Aves,Galliformes,feces,Phasianidae,Animal,Others
+X313_Red_Deer,X313_Red_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X314_Red_Deer,X314_Red_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X32_Greylag_Goose,X32_Greylag_Goose,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X325_Asp,X325_Asp,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X326_Silver_Bream,X326_Silver_Bream,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X327_Silver_Bream,X327_Silver_Bream,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X328_Prussian_Carp,X328_Prussian_Carp,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X329_Bleak,X329_Bleak,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X33_Wild_Turkey,X33_Wild_Turkey,Vertebrata,root,Host-associated,Aves,Galliformes,feces,Phasianidae,Animal,Others
+X330_Ide,X330_Ide,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X331_Harbor_Porpoise,X331_Harbor_Porpoise,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Phocoenidae,Animal,Mammalia
+X332_Harbor_Porpoise,X332_Harbor_Porpoise,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Phocoenidae,Animal,Mammalia
+X333_Gray_Seal,X333_Gray_Seal,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Phocidae,Animal,Mammalia
+X334_Gray_Seal,X334_Gray_Seal,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Phocidae,Animal,Mammalia
+X335_Harbor_Seal,X335_Harbor_Seal,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Phocidae,Animal,Mammalia
+X336_Sei_Whale,X336_Sei_Whale,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Balaenopteridae,Animal,Mammalia
+X337_Sowerbys_Beaked_Whale,X337_Sowerbys_Beaked_Whale,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Ziphiidae,Animal,Mammalia
+X338_White_beaked_Dolphin,X338_White_beaked_Dolphin,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Delphinidae,Animal,Mammalia
+X339_White_beaked_Dolphin,X339_White_beaked_Dolphin,Vertebrata,root,Host-associated,Mammalia,Cetacea,feces,Delphinidae,Animal,Mammalia
+X34_Mallard_Duck,X34_Mallard_Duck,Vertebrata,root,Host-associated,Aves,Anseriformes,feces,Anatidae,Animal,Others
+X340_Western_Lowland_Gorilla,X340_Western_Lowland_Gorilla,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X341_Western_Lowland_Gorilla,X341_Western_Lowland_Gorilla,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Hominidae,Animal,Mammalia
+X342_European_Green_Toad,X342_European_Green_Toad,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Bufonidae,Animal,Others
+X343_Sand_Lizard,X343_Sand_Lizard,Vertebrata,root,Host-associated,Reptilia,Squamata,gut,Lacertidae,Animal,Others
+X344_Indian_Rhinoceros,X344_Indian_Rhinoceros,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Rhinocerotidae,Animal,Mammalia
+X345_fail_Alpine_Salamander,X345_fail_Alpine_Salamander,Vertebrata,root,Host-associated,Amphibia,Caudata,feces,Salamandridae,Animal,Others
+X346_Ground_Pangolin,X346_Ground_Pangolin,Vertebrata,root,Host-associated,Mammalia,Pholidota,feces,Manidae,Animal,Mammalia
+X347_Brown_Bear,X347_Brown_Bear,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Ursidae,Animal,Mammalia
+X348_European_Rabbit,X348_European_Rabbit,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,gut,Leporidae,Animal,Mammalia
+X349_Smooth_Newt,X349_Smooth_Newt,Vertebrata,root,Host-associated,Amphibia,Caudata,feces,Salamandridae,Animal,Others
+X350_Smooth_Newt,X350_Smooth_Newt,Vertebrata,root,Host-associated,Amphibia,Caudata,feces,Salamandridae,Animal,Others
+X351_Grass_Snake,X351_Grass_Snake,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Colubridae,Animal,Others
+X352_Kinkajou,X352_Kinkajou,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Procyonidae,Animal,Mammalia
+X353_Raccoon,X353_Raccoon,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Procyonidae,Animal,Mammalia
+X354_Hoffmanns_Two_toed_Sloth,X354_Hoffmanns_Two_toed_Sloth,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Megalonychidae,Animal,Mammalia
+X355_Hoffmanns_Two_toed_Sloth,X355_Hoffmanns_Two_toed_Sloth,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Megalonychidae,Animal,Mammalia
+X356_Northern_Tamandua,X356_Northern_Tamandua,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Myrmecophagidae,Animal,Mammalia
+X357_Northern_Tamandua,X357_Northern_Tamandua,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Myrmecophagidae,Animal,Mammalia
+X358_Brown_throated_Sloth,X358_Brown_throated_Sloth,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Bradypodidae,Animal,Mammalia
+X359_Brown_throated_Sloth,X359_Brown_throated_Sloth,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Bradypodidae,Animal,Mammalia
+X36_Agile_Frog,X36_Agile_Frog,Vertebrata,root,Host-associated,Amphibia,Anura,feces,Ranidae,Animal,Others
+X360_White_tailed_Deer,X360_White_tailed_Deer,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X361_fail_Common_Opossum,X361_fail_Common_Opossum,Vertebrata,root,Host-associated,Mammalia,Didelphimorphia,gut,Didelphidae,Animal,Mammalia
+X362_Gray_Four_eyed_Opossum,X362_Gray_Four_eyed_Opossum,Vertebrata,root,Host-associated,Mammalia,Didelphimorphia,gut,Didelphidae,Animal,Mammalia
+X363_Desmarests_Spiny_Pocket_Mouse,X363_Desmarests_Spiny_Pocket_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Heteromyidae,Animal,Mammalia
+X364_fail_Fulvous_Harvest_Mouse,X364_fail_Fulvous_Harvest_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Cricetidae,Animal,Mammalia
+X365_fail_Goldmans_Ichthyomyine,X365_fail_Goldmans_Ichthyomyine,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Cricetidae,Animal,Mammalia
+X366_fail_Tomes_Spiny_Rat,X366_fail_Tomes_Spiny_Rat,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Echimyidae,Animal,Mammalia
+X367_fail_Dusky_Melanomys,X367_fail_Dusky_Melanomys,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X368_European_Ground_Squirrel,X368_European_Ground_Squirrel,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Sciuridae,Animal,Mammalia
+X369_Koala,X369_Koala,Vertebrata,root,Host-associated,Mammalia,Diprotodontia,feces,Phascolarctidae,Animal,Mammalia
+X37_Bank_Vole,X37_Bank_Vole,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Cricetidae,Animal,Mammalia
+X370_African_Bush_Elephant,X370_African_Bush_Elephant,Vertebrata,root,Host-associated,Mammalia,Proboscidea,feces,Elephantidae,Animal,Mammalia
+X371_Linnaeus_Two_toed_Sloth,X371_Linnaeus_Two_toed_Sloth,Vertebrata,root,Host-associated,Mammalia,Pilosa,feces,Megalonychidae,Animal,Mammalia
+X372_Emu,X372_Emu,Vertebrata,root,Host-associated,Aves,Struthioniformes,feces,Dromaiidae,Animal,Others
+X373_Least_Weasel,X373_Least_Weasel,Vertebrata,root,Host-associated,Mammalia,Carnivora,gut,Mustelidae,Animal,Mammalia
+X374_fail_Least_Weasel,X374_fail_Least_Weasel,Vertebrata,root,Host-associated,Mammalia,Carnivora,gut,Mustelidae,Animal,Mammalia
+X375_European_Pine_Marten,X375_European_Pine_Marten,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X376_Kulan,X376_Kulan,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X377_Fat_Sand_Rat,X377_Fat_Sand_Rat,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Muridae,Animal,Mammalia
+X378_Fat_Sand_Rat,X378_Fat_Sand_Rat,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Muridae,Animal,Mammalia
+X38_Great_Tit,X38_Great_Tit,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Paridae,Animal,Others
+X381_Wild_Boar,X381_Wild_Boar,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Suidae,Animal,Mammalia
+X382_Arctic_Wolf,X382_Arctic_Wolf,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X383_Arctic_Wolf,X383_Arctic_Wolf,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X384_Eurasian_Lynx,X384_Eurasian_Lynx,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X389_Indian_Rhinoceros,X389_Indian_Rhinoceros,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Rhinocerotidae,Animal,Mammalia
+X391_European_Ground_Squirrel,X391_European_Ground_Squirrel,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Sciuridae,Animal,Mammalia
+X392_House_Mouse,X392_House_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X393_European_Rabbit,X393_European_Rabbit,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X394_Przewalski_horse,X394_Przewalski_horse,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X395_Przewalski_horse,X395_Przewalski_horse,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X396_Morelets_crocodile,X396_Morelets_crocodile,Vertebrata,root,Host-associated,Reptilia,Crocodilia,feces,Crocodylidae,Animal,Others
+X397_Penguin,X397_Penguin,Vertebrata,root,Host-associated,Aves,Sphenisciformes,feces,Spheniscidae,Animal,Others
+X398_Eurasian_Reed_Warbler,X398_Eurasian_Reed_Warbler,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Sylviidae,Animal,Others
+X399_Lion,X399_Lion,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X4_Red_Fox,X4_Red_Fox,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X40_Bactrian_Camel,X40_Bactrian_Camel,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Camelidae,Animal,Mammalia
+X400_House_Mouse,X400_House_Mouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Muridae,Animal,Mammalia
+X401_fail_Blue_Wildebeest,X401_fail_Blue_Wildebeest,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X402_fail_Blue_Wildebeest,X402_fail_Blue_Wildebeest,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X403_Chacma_Baboon,X403_Chacma_Baboon,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X404_Brown_Greater_Galago,X404_Brown_Greater_Galago,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Galagidae,Animal,Mammalia
+X405_Nile_Crocodile,X405_Nile_Crocodile,Vertebrata,root,Host-associated,Reptilia,Crocodilia,feces,Crocodylidae,Animal,Others
+X407_African_Bush_Elephant,X407_African_Bush_Elephant,Vertebrata,root,Host-associated,Mammalia,Proboscidea,feces,Elephantidae,Animal,Mammalia
+X408_African_Bush_Elephant,X408_African_Bush_Elephant,Vertebrata,root,Host-associated,Mammalia,Proboscidea,feces,Elephantidae,Animal,Mammalia
+X409_Impala,X409_Impala,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X41_Pika,X41_Pika,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X410_Impala,X410_Impala,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X411_Leopard,X411_Leopard,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X412_Lion,X412_Lion,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X413_Lion,X413_Lion,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Felidae,Animal,Mammalia
+X414_Vervet_Monkey,X414_Vervet_Monkey,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X415_White_Rhinoceros,X415_White_Rhinoceros,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Rhinocerotidae,Animal,Mammalia
+X416_White_Rhinoceros,X416_White_Rhinoceros,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Rhinocerotidae,Animal,Mammalia
+X417_Giraffe,X417_Giraffe,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Giraffidae,Animal,Mammalia
+X418_Giraffe,X418_Giraffe,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Giraffidae,Animal,Mammalia
+X419_African_Buffalo,X419_African_Buffalo,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X42_Goitered_Gazelle,X42_Goitered_Gazelle,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X420_Cattle,X420_Cattle,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X421_Common_Hippopotamus,X421_Common_Hippopotamus,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Hippopotamidae,Animal,Mammalia
+X422_Common_Hippopotamus,X422_Common_Hippopotamus,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Hippopotamidae,Animal,Mammalia
+X423_Quagga,X423_Quagga,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X424_Quagga,X424_Quagga,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X425_Emu,X425_Emu,Vertebrata,root,Host-associated,Aves,Struthioniformes,feces,Dromaiidae,Animal,Others
+X426_Ural_Owl,X426_Ural_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,feces,Strigidae,Animal,Others
+X427_Great_Spotted_Woodpecker,X427_Great_Spotted_Woodpecker,Vertebrata,root,Host-associated,Aves,Piciformes,feces,Picidae,Animal,Others
+X429_Giraffe,X429_Giraffe,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Giraffidae,Animal,Mammalia
+X43_European_Badger,X43_European_Badger,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X430_Giraffe,X430_Giraffe,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Giraffidae,Animal,Mammalia
+X431_Quagga,X431_Quagga,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X432_Vervet_Monkey,X432_Vervet_Monkey,Vertebrata,root,Host-associated,Mammalia,Primates,feces,Cercopithecidae,Animal,Mammalia
+X433_Raccoon,X433_Raccoon,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Procyonidae,Animal,Mammalia
+X434_Blue_Wildebeest,X434_Blue_Wildebeest,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X435_Bactrian_Camel,X435_Bactrian_Camel,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Camelidae,Animal,Mammalia
+X44_Meadow_Viper,X44_Meadow_Viper,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Viperidae,Animal,Others
+X46_European_Nightjar,X46_European_Nightjar,Vertebrata,root,Host-associated,Aves,Caprimulgiformes,feces,Caprimulgidae,Animal,Others
+X5_European_Hare,X5_European_Hare,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X50_Song_Thrush,X50_Song_Thrush,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Turdidae,Animal,Others
+X55_fail1_Water_Pipit,X55_fail1_Water_Pipit,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Motacillidae,Animal,Others
+X6_Common_Hamster,X6_Common_Hamster,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Cricetidae,Animal,Mammalia
+X60_European_Chub,X60_European_Chub,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X62_fail1_Common_Rudd,X62_fail1_Common_Rudd,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X63_fail1_European_Perch,X63_fail1_European_Perch,Vertebrata,root,Host-associated,Actinopterygii,Perciformes,feces,Percidae,Animal,Others
+X64_Eurasian_Ruffe,X64_Eurasian_Ruffe,Vertebrata,root,Host-associated,Actinopterygii,Perciformes,feces,Percidae,Animal,Others
+X66_Mouflon,X66_Mouflon,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X67_European_Roe,X67_European_Roe,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Cervidae,Animal,Mammalia
+X7_European_Otter,X7_European_Otter,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X71_Fire_Salamander,X71_Fire_Salamander,Vertebrata,root,Host-associated,Amphibia,Caudata,feces,Salamandridae,Animal,Others
+X72_Ural_Owl,X72_Ural_Owl,Vertebrata,root,Host-associated,Aves,Strigiformes,feces,Strigidae,Animal,Others
+X73_One_humped_Camel,X73_One_humped_Camel,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Camelidae,Animal,Mammalia
+X74_Steppe_Polecat,X74_Steppe_Polecat,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X75_fail1_Steppe_Polecat,X75_fail1_Steppe_Polecat,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X76_European_Polecat,X76_European_Polecat,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X77_Onager,X77_Onager,Vertebrata,root,Host-associated,Mammalia,Perissodactyla,feces,Equidae,Animal,Mammalia
+X78_Indian_Gazelle,X78_Indian_Gazelle,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X79_Eurasian_Beaver,X79_Eurasian_Beaver,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Castoridae,Animal,Mammalia
+X8_Garden_Dormouse,X8_Garden_Dormouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Gliridae,Animal,Mammalia
+X80_European_Otter,X80_European_Otter,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Mustelidae,Animal,Mammalia
+X81_Wolf,X81_Wolf,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X82_Eurasian_Ruffe,X82_Eurasian_Ruffe,Vertebrata,root,Host-associated,Actinopterygii,Perciformes,feces,Percidae,Animal,Others
+X83_Common_Rudd,X83_Common_Rudd,Vertebrata,root,Host-associated,Actinopterygii,Cypriniformes,feces,Cyprinidae,Animal,Others
+X84_Common_Chiffchaff,X84_Common_Chiffchaff,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Sylviidae,Animal,Others
+X85_Domestic_Dog,X85_Domestic_Dog,Vertebrata,root,Host-associated,Mammalia,Carnivora,feces,Canidae,Animal,Mammalia
+X87_Garden_Dormouse,X87_Garden_Dormouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Gliridae,Animal,Mammalia
+X89_Fat_Dormouse,X89_Fat_Dormouse,Vertebrata,root,Host-associated,Mammalia,Rodentia,feces,Gliridae,Animal,Mammalia
+X90_Water_Rail,X90_Water_Rail,Vertebrata,root,Host-associated,Aves,Gruiformes,feces,Rallidae,Animal,Others
+X91_Dunnock,X91_Dunnock,Vertebrata,root,Host-associated,Aves,Passeriformes,feces,Passeridae,Animal,Others
+X92_Lesser_White_toothed_Shrew,X92_Lesser_White_toothed_Shrew,Vertebrata,root,Host-associated,Mammalia,Soricomorpha,feces,Soricidae,Animal,Mammalia
+X93_Red_Sheep,X93_Red_Sheep,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Bovidae,Animal,Mammalia
+X94_Mangalica,X94_Mangalica,Vertebrata,root,Host-associated,Mammalia,Artiodactyla,feces,Suidae,Animal,Mammalia
+X95_Meadow_Viper,X95_Meadow_Viper,Vertebrata,root,Host-associated,Reptilia,Squamata,feces,Viperidae,Animal,Others
+X96_European_Hare,X96_European_Hare,Vertebrata,root,Host-associated,Mammalia,Lagomorpha,feces,Leporidae,Animal,Mammalia
+X98_Eurasian_Red_Squirrel,X98_Eurasian_Red_Squirrel,Vertebrata,root,Host-associated,Mammalia,Rodentia,gut,Sciuridae,Animal,Mammalia
+AC622,AC622,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AC660,AC660,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AC665,AC665,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AC667,AC667,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AC668,AC668,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Ahyb1000,Ahyb1000,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Ahyb135,Ahyb135,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Ahyb257,Ahyb257,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Ahyb401,Ahyb401,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Ahyb411,Ahyb411,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APAL36,APAL36,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APAL37,APAL37,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APAL38,APAL38,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APAL39,APAL39,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Apalw13,Apalw13,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Apalw14,Apalw14,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF103,APF103,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF104,APF104,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF105,APF105,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF106,APF106,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF36,APF36,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF37,APF37,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF38,APF38,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+APF39,APF39,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Asen1111,Asen1111,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Asen685,Asen685,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AsenLink1,AsenLink1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AsenLink2,AsenLink2,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AsenLink3,AsenLink3,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AsenLink4,AsenLink4,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AtbelzLink1,AtbelzLink1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AtbelzLink2,AtbelzLink2,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AtbelzLink3,AtbelzLink3,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AtbelzLink4,AtbelzLink4,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+AtbelzLink5,AtbelzLink5,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+BWC2023,BWC2023,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+BWC2026,BWC2026,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+BWC2061,BWC2061,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+BWC2063,BWC2063,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+BWC2115,BWC2115,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+Gor1,Gor1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Gor11,Gor11,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Gor12,Gor12,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Gor2,Gor2,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Gor3,Gor3,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+JB1,JB1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB10,JB10,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB12,JB12,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB13,JB13,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB15,JB15,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB17,JB17,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB18,JB18,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB24,JB24,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB25,JB25,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB27,JB27,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB28,JB28,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB29,JB29,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB3,JB3,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB32,JB32,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+JB34,JB34,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+LabEllis3,LabEllis3,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+LagAb2,LagAb2,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+LagEllis1,LagEllis1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+LagEllis4,LagEllis4,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+LagEllis5,LagEllis5,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Atelidae,Animal,Mammalia
+Lc259,Lc259,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Lemuridae,Animal,Mammalia
+Lc301,Lc301,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Lemuridae,Animal,Mammalia
+Lc307,Lc307,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Lemuridae,Animal,Mammalia
+Lc308,Lc308,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Lemuridae,Animal,Mammalia
+Lc310,Lc310,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Lemuridae,Animal,Mammalia
+Ptr1,Ptr1,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Ptr10,Ptr10,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Ptr11,Ptr11,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+Ptr13,Ptr13,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+PTr14,PTr14,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+RC2036,RC2036,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RC2068,RC2068,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RC2071,RC2071,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RC2096,RC2096,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RC2098,RC2098,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RT2013,RT2013,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RT2017,RT2017,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RT2019,RT2019,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RT2021,RT2021,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+RT2048,RT2048,Amato_2019,root,Host-associated,Mammalia,Primates,fecal,Cercopithecidae,Animal,Mammalia
+ERR2114804,ERR2114804,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114805,ERR2114805,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114806,ERR2114806,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114807,ERR2114807,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114808,ERR2114808,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114809,ERR2114809,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114810,ERR2114810,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114811,ERR2114811,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2114812,ERR2114812,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144868,ERR2144868,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144869,ERR2144869,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144870,ERR2144870,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144871,ERR2144871,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144872,ERR2144872,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144873,ERR2144873,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144874,ERR2144874,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144875,ERR2144875,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144876,ERR2144876,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144877,ERR2144877,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144878,ERR2144878,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144879,ERR2144879,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144880,ERR2144880,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144881,ERR2144881,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144882,ERR2144882,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144883,ERR2144883,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144884,ERR2144884,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144885,ERR2144885,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144886,ERR2144886,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144887,ERR2144887,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144888,ERR2144888,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144889,ERR2144889,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144890,ERR2144890,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144891,ERR2144891,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144892,ERR2144892,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144893,ERR2144893,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144894,ERR2144894,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144895,ERR2144895,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144896,ERR2144896,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144897,ERR2144897,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144898,ERR2144898,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144899,ERR2144899,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+ERR2144900,ERR2144900,MGYS00005398,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Salviniaceae,Plants,Others
+SRR10527385,SRR10527385,NA,root,Host-associated,Plants,Phyllosphere,Phyllosphere,NA,Plants,Others
+SRR11092496,SRR11092496,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,NA,Plants,Others
+SRR11092498,SRR11092498,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Asteraceae,Plants,Others
+SRR11092501,SRR11092501,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Poaceae,Plants,Others
+SRR11092505,SRR11092505,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Asteraceae,Plants,Others
+SRR11092508,SRR11092508,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Poaceae,Plants,Others
+SRR11092511,SRR11092511,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Poaceae,Plants,Others
+SRR4142418,SRR4142418,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Asparagaceae,Plants,Others
+SRR6435859,SRR6435859,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435862,SRR6435862,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435880,SRR6435880,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435882,SRR6435882,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435883,SRR6435883,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435884,SRR6435884,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435887,SRR6435887,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435946,SRR6435946,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435947,SRR6435947,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435948,SRR6435948,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435949,SRR6435949,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435951,SRR6435951,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435956,SRR6435956,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435958,SRR6435958,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435959,SRR6435959,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435960,SRR6435960,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435961,SRR6435961,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435983,SRR6435983,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6435984,SRR6435984,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6436016,SRR6436016,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6436017,SRR6436017,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6436020,SRR6436020,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6436021,SRR6436021,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6489859,SRR6489859,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Brassicaceae,Plants,Others
+SRR6942504,SRR6942504,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Paniceae,Plants,Others
+SRR6942514,SRR6942514,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Paniceae,Plants,Others
+SRR6942518,SRR6942518,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Paniceae,Plants,Others
+SRR6942519,SRR6942519,NA,root,Host-associated,Plants,Rhizosphere,Rhizosphere,Paniceae,Plants,Others
+SRR6982567,SRR6982567,NA,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Paniceae,Plants,Others
+SRR6982699,SRR6982699,NA,root,Host-associated,Plants,Phyllosphere,Phyllosphere,Paniceae,Plants,Others
+100UNCULTURED_S7,100UNCULTURED_S7,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+14UNCULTURED_S8,14UNCULTURED_S8,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+18UNCULTURED_S12,18UNCULTURED_S12,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+19UNCULTURED_S14,19UNCULTURED_S14,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+24UNCULTURED_S3,24UNCULTURED_S3,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+26UNCULTURED_S4,26UNCULTURED_S4,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+28UNCULTURED_S6,28UNCULTURED_S6,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+2UNCULTURED_S1,2UNCULTURED_S1,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+300UNCULTURED_S9,300UNCULTURED_S9,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+36UNCULTURED_S10,36UNCULTURED_S10,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+400UNCULTURED_S11,400UNCULTURED_S11,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+40UNCULTURED_S15,40UNCULTURED_S15,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+4UNCULTURED_S2,4UNCULTURED_S2,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+500UNCULTURED_S13,500UNCULTURED_S13,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+8UNCULTURED_S5,8UNCULTURED_S5,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+lucaAR31_S16,lucaAR31_S16,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+lucaAR32_S17,lucaAR32_S17,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+lucaAR33_S18,lucaAR33_S18,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
+lucaAR34_S19,lucaAR34_S19,Muehlbauer_2020,root,Host-associated,Mammalia,Primates,fecal,Hominidae,Animal,Mammalia
